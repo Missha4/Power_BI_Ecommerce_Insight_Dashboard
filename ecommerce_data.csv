@@ -1,0 +1,1001 @@
+User_ID,Session_Start,Pages_Viewed,Products_Added,Checkout_Success,User_Age,User_Gender,Location,Traffic_Source,Purchase_History,Support_Interactions,Returns,Loading_Speed_Sec,Device,OS
+53647,2023-01-01 09:00:44,5,5,True,37,Female,Suburban,Paid Ads,498,103,2,2.36,Tablet,iOS
+36813,2023-01-01 15:55:29,5,5,True,30,Non-Binary,Rural,Paid Ads,263,0,1,3.54,Mobile,Linux
+80918,2023-01-02 01:46:50,3,3,False,23,Male,Rural,Social Media,466,45,0,5.71,Desktop,Windows
+29055,2023-01-02 23:46:33,3,9,False,30,Non-Binary,Rural,Paid Ads,416,1,0,3.88,Desktop,iOS
+55295,2023-01-04 00:15:46,6,8,False,21,Non-Binary,Suburban,Social Media,425,6,1,0.72,Mobile,Windows
+25352,2023-01-05 05:49:27,8,3,True,27,Male,Urban,Social Media,349,1,0,1.67,Mobile,iOS
+96823,2023-01-06 08:35:44,6,6,False,50,Male,Suburban,Direct Search,511,0,0,3.75,Tablet,iOS
+74570,2023-01-07 15:05:16,4,5,False,32,Non-Binary,Rural,Direct Search,497,0,0,-0.96,Mobile,Linux
+70533,2023-01-07 16:35:29,4,6,False,23,Non-Binary,Urban,Social Media,548,0,1,3.02,Desktop,macOS
+19781,2023-01-08 04:21:32,3,9,True,25,Non-Binary,Suburban,Email,605,6,0,3.62,Tablet,iOS
+50542,2023-01-08 12:12:59,4,5,True,51,Female,Urban,Paid Ads,597,1,0,3.14,Mobile,macOS
+70027,2023-01-09 00:56:06,8,5,True,32,Female,Suburban,Direct Search,445,0,0,2.4,Desktop,Linux
+13918,2023-01-09 04:34:35,3,4,True,18,Female,Rural,Email,497,1,0,2.78,Tablet,Windows
+87493,2023-01-09 11:20:53,4,7,True,18,Non-Binary,Urban,Social Media,544,1,0,3.3,Mobile,Windows
+15037,2023-01-09 15:28:58,3,3,True,43,Non-Binary,Rural,Paid Ads,322,0,0,3.2,Mobile,Linux
+83298,2023-01-10 09:19:18,6,8,True,23,Non-Binary,Suburban,Social Media,342,0,1,1.91,Desktop,Linux
+57954,2023-01-10 14:00:54,4,6,False,36,Female,Rural,Direct Search,539,5,2,0.22,Desktop,macOS
+78246,2023-01-11 07:32:01,4,4,True,21,Female,Urban,Social Media,735,0,0,2.13,Mobile,Android
+38250,2023-01-11 14:10:05,3,6,False,33,Female,Rural,Paid Ads,403,0,0,2.44,Desktop,Android
+45300,2023-01-12 00:18:50,7,4,True,47,Female,Suburban,Paid Ads,488,2,0,1.81,Mobile,Linux
+56870,2023-01-12 11:42:24,4,4,True,23,Non-Binary,Suburban,Email,391,0,0,3.74,Desktop,Linux
+27591,2023-01-12 21:30:06,7,4,False,34,Female,Rural,Direct Search,495,0,0,3.49,Tablet,Windows
+22383,2023-01-13 05:35:23,0,2,True,37,Male,Urban,Email,225,0,0,2.32,Mobile,Android
+81557,2023-01-13 14:58:09,9,5,True,19,Non-Binary,Rural,Direct Search,338,0,0,3.75,Desktop,macOS
+92944,2023-01-13 18:23:37,11,6,False,50,Female,Rural,Paid Ads,372,11,0,3.05,Mobile,Android
+72834,2023-01-14 13:34:56,9,4,True,48,Male,Urban,Email,428,2,1,3.64,Tablet,macOS
+75802,2023-01-14 22:48:20,4,4,True,36,Non-Binary,Suburban,Direct Search,525,0,0,4.02,Mobile,Linux
+48775,2023-01-15 00:49:41,13,5,True,35,Non-Binary,Suburban,Social Media,163,0,0,2.81,Tablet,macOS
+93241,2023-01-15 07:23:11,3,5,False,49,Female,Rural,Social Media,387,0,0,3.43,Desktop,iOS
+12496,2023-01-15 11:25:19,6,4,False,19,Non-Binary,Urban,Direct Search,338,0,0,1.37,Tablet,Linux
+71570,2023-01-16 14:55:06,5,2,False,28,Non-Binary,Urban,Social Media,578,1,2,-0.06,Desktop,Linux
+47073,2023-01-16 16:21:52,7,4,True,40,Male,Urban,Paid Ads,771,0,0,3.65,Desktop,iOS
+54239,2023-01-16 22:37:17,9,4,True,46,Non-Binary,Rural,Direct Search,434,0,1,2.52,Tablet,Android
+72997,2023-01-17 03:15:26,5,5,False,23,Non-Binary,Urban,Social Media,558,1,1,3.78,Desktop,Windows
+66537,2023-01-17 12:39:50,2,3,True,23,Male,Urban,Email,553,0,2,3.32,Desktop,iOS
+23640,2023-01-17 19:25:17,4,6,True,18,Non-Binary,Urban,Direct Search,708,0,0,0.54,Desktop,Linux
+59272,2023-01-18 10:04:50,11,4,True,25,Female,Suburban,Direct Search,289,2,0,-0.67,Desktop,Android
+20088,2023-01-19 13:53:13,7,5,True,22,Male,Rural,Social Media,500,0,1,1.73,Tablet,Linux
+31871,2023-01-19 20:04:41,6,5,True,60,Male,Suburban,Direct Search,647,0,0,2.78,Desktop,Linux
+32571,2023-01-20 01:24:08,6,6,True,19,Female,Urban,Direct Search,377,122,0,2.76,Mobile,iOS
+91521,2023-01-20 18:12:01,2,4,False,34,Female,Urban,Social Media,275,0,0,2.68,Desktop,Linux
+17997,2023-01-20 19:05:24,5,6,True,26,Male,Suburban,Social Media,400,2,0,3.11,Mobile,Windows
+45620,2023-01-21 01:22:46,3,8,True,20,Female,Urban,Paid Ads,535,21,1,3.56,Tablet,macOS
+83036,2023-01-21 18:24:01,5,4,False,36,Non-Binary,Urban,Direct Search,354,0,0,4.95,Tablet,Linux
+46546,2023-01-22 01:15:43,5,5,False,39,Non-Binary,Rural,Social Media,394,2,0,4.12,Tablet,Android
+28491,2023-01-22 04:07:50,5,5,True,27,Female,Urban,Direct Search,488,0,0,4.84,Mobile,macOS
+71713,2023-01-22 04:52:11,8,5,True,34,Female,Suburban,Paid Ads,304,0,1,3.73,Mobile,iOS
+84152,2023-01-22 07:12:18,8,3,True,48,Female,Rural,Email,731,1,1,2.98,Desktop,Windows
+53986,2023-01-22 19:21:31,6,4,True,20,Male,Urban,Paid Ads,329,0,0,2.6,Desktop,macOS
+99564,2023-01-22 19:28:54,8,1,True,24,Female,Rural,Direct Search,398,0,0,1.38,Mobile,Windows
+86440,2023-01-23 02:49:21,4,5,True,23,Male,Urban,Social Media,570,0,2,2.07,Mobile,Windows
+96028,2023-01-23 05:49:10,5,7,True,21,Male,Rural,Paid Ads,490,5,0,3.7,Desktop,Windows
+92570,2023-01-23 08:39:49,7,4,True,25,Female,Suburban,Social Media,586,0,0,7.08,Tablet,Linux
+82839,2023-01-23 15:52:57,9,6,False,60,Male,Urban,Direct Search,430,1,1,3.73,Mobile,Linux
+64546,2023-01-24 08:06:26,4,8,True,28,Non-Binary,Urban,Direct Search,383,0,1,1.08,Desktop,macOS
+49920,2023-01-24 08:59:19,5,7,False,22,Non-Binary,Rural,Paid Ads,405,4,0,3.35,Mobile,iOS
+46915,2023-01-24 20:03:23,3,1,True,19,Female,Suburban,Social Media,436,0,0,4.78,Mobile,Android
+46223,2023-01-25 02:34:55,6,4,True,28,Non-Binary,Rural,Paid Ads,342,1,0,2.86,Desktop,iOS
+32708,2023-01-25 15:39:55,4,5,True,50,Male,Rural,Email,577,0,0,3.58,Tablet,iOS
+89634,2023-01-26 05:59:14,4,6,False,26,Male,Suburban,Email,577,1,0,5.64,Tablet,Windows
+58798,2023-01-26 17:09:22,7,2,True,34,Male,Urban,Social Media,701,6,0,3.32,Tablet,Linux
+92249,2023-01-27 00:40:18,4,7,False,43,Male,Urban,Direct Search,388,0,1,0.32,Mobile,Android
+63123,2023-01-27 19:14:55,2,5,True,24,Non-Binary,Suburban,Direct Search,692,2,0,1.92,Mobile,Windows
+81382,2023-01-28 03:22:07,5,5,False,45,Male,Suburban,Direct Search,405,1,0,3.42,Tablet,Android
+97496,2023-01-28 09:00:43,5,5,True,34,Non-Binary,Suburban,Direct Search,559,0,0,4.02,Tablet,iOS
+40441,2023-01-29 15:37:07,3,3,True,42,Non-Binary,Suburban,Social Media,678,0,0,5.3,Desktop,macOS
+46589,2023-01-30 08:40:30,10,5,False,43,Male,Rural,Direct Search,541,1,0,2.54,Mobile,macOS
+37034,2023-01-30 23:30:37,4,6,False,55,Female,Urban,Email,389,0,1,6.23,Tablet,Linux
+78623,2023-01-31 03:42:46,1,6,True,46,Male,Urban,Email,389,0,0,3.1,Mobile,Windows
+99740,2023-02-01 10:17:12,5,5,True,58,Non-Binary,Rural,Email,442,2,1,2.97,Desktop,iOS
+35735,2023-02-01 12:49:24,3,4,True,38,Non-Binary,Rural,Direct Search,715,0,0,2.64,Tablet,iOS
+51790,2023-02-01 18:25:36,7,5,True,33,Non-Binary,Urban,Social Media,8,0,0,3.85,Tablet,macOS
+75323,2023-02-02 14:05:10,5,2,True,27,Non-Binary,Suburban,Direct Search,569,0,0,2.41,Tablet,Android
+41782,2023-02-02 18:11:59,6,2,True,23,Non-Binary,Urban,Social Media,437,0,0,2.38,Tablet,iOS
+15162,2023-02-03 00:26:24,8,5,False,55,Non-Binary,Rural,Email,526,1,0,0.64,Tablet,macOS
+38651,2023-02-03 03:22:31,3,8,True,48,Male,Urban,Paid Ads,445,0,0,1.07,Desktop,macOS
+89904,2023-02-03 09:38:56,11,5,True,55,Female,Urban,Paid Ads,441,0,0,2.93,Tablet,iOS
+53671,2023-02-04 04:06:53,2,6,True,28,Female,Rural,Direct Search,525,0,0,2.51,Mobile,Linux
+78134,2023-02-04 09:03:06,4,4,False,53,Non-Binary,Suburban,Email,489,0,1,1.58,Tablet,Linux
+78219,2023-02-05 03:37:19,5,2,True,27,Male,Suburban,Social Media,469,0,1,0.92,Mobile,Windows
+49366,2023-02-05 14:06:32,8,6,True,19,Male,Suburban,Paid Ads,533,0,0,2.79,Tablet,Windows
+74022,2023-02-06 06:54:48,7,3,False,30,Male,Urban,Email,328,2,0,4.9,Mobile,Linux
+55387,2023-02-06 11:18:41,6,5,True,27,Non-Binary,Urban,Direct Search,442,3,1,5.12,Mobile,macOS
+96640,2023-02-07 07:50:08,4,3,True,44,Female,Urban,Social Media,568,0,2,2.51,Tablet,Android
+45051,2023-02-07 13:52:49,4,4,True,43,Non-Binary,Rural,Email,404,135,1,5.2,Desktop,macOS
+17802,2023-02-07 14:06:04,3,4,True,49,Male,Rural,Paid Ads,462,3,0,2.31,Desktop,iOS
+98193,2023-02-08 12:32:24,4,5,True,48,Female,Suburban,Email,487,0,1,3.47,Desktop,Android
+53723,2023-02-08 19:07:42,6,6,True,31,Female,Urban,Paid Ads,487,1,1,4.18,Desktop,macOS
+52179,2023-02-08 22:02:34,1,5,True,21,Female,Suburban,Direct Search,404,0,0,1.78,Mobile,Linux
+30132,2023-02-09 00:24:14,4,2,True,33,Female,Suburban,Social Media,391,0,0,4.47,Tablet,Android
+48212,2023-02-09 18:22:44,7,5,True,25,Non-Binary,Rural,Paid Ads,540,0,1,2.65,Tablet,Android
+12121,2023-02-09 19:08:34,5,4,True,48,Non-Binary,Suburban,Paid Ads,349,2,3,1.49,Desktop,Windows
+80051,2023-02-10 01:08:38,2,4,False,41,Female,Urban,Email,691,0,2,3.14,Desktop,Android
+30177,2023-02-10 10:55:01,6,5,True,23,Female,Suburban,Email,726,1,1,1.07,Tablet,Android
+49381,2023-02-11 03:11:04,11,6,True,42,Female,Urban,Email,337,0,0,4.51,Desktop,iOS
+84392,2023-02-11 12:26:32,6,8,True,33,Male,Urban,Paid Ads,194,0,0,5.71,Desktop,Windows
+90577,2023-02-11 17:24:51,8,6,True,32,Male,Suburban,Paid Ads,696,0,1,3.84,Tablet,Android
+19425,2023-02-11 18:50:15,5,6,True,18,Female,Urban,Direct Search,336,0,1,-0.25,Desktop,Linux
+61939,2023-02-12 00:00:34,1,6,True,23,Male,Suburban,Paid Ads,698,1,0,0.7,Desktop,Linux
+35687,2023-02-12 07:13:16,5,7,True,59,Non-Binary,Rural,Direct Search,631,0,1,2.78,Tablet,Windows
+33310,2023-02-12 07:35:06,3,3,True,35,Male,Suburban,Direct Search,318,2,0,3.49,Desktop,Windows
+93891,2023-02-12 10:56:19,5,4,True,49,Male,Urban,Email,395,0,3,1.17,Desktop,macOS
+68146,2023-02-13 06:08:03,3,5,False,35,Non-Binary,Rural,Email,421,0,0,1.52,Tablet,iOS
+30950,2023-02-13 19:38:53,3,3,True,38,Male,Urban,Email,597,0,1,1.68,Mobile,Linux
+76509,2023-02-13 19:48:00,10,7,True,30,Female,Urban,Paid Ads,282,1,0,4.63,Tablet,iOS
+37536,2023-02-13 22:23:34,4,5,False,60,Male,Suburban,Paid Ads,838,4,0,3.04,Mobile,iOS
+94665,2023-02-14 01:16:58,2,5,False,32,Male,Suburban,Social Media,514,0,0,3.05,Mobile,Linux
+80882,2023-02-14 20:21:56,9,5,False,23,Male,Suburban,Paid Ads,463,1,0,5.54,Mobile,Linux
+19144,2023-02-15 03:36:07,9,6,True,21,Male,Suburban,Social Media,527,2,0,1.82,Tablet,Windows
+80238,2023-02-15 08:05:16,8,3,True,27,Female,Urban,Paid Ads,479,1,0,5.52,Desktop,macOS
+86723,2023-02-15 15:30:35,6,7,True,45,Female,Suburban,Direct Search,429,0,1,3.55,Desktop,iOS
+80381,2023-02-16 05:53:52,4,4,False,60,Non-Binary,Rural,Email,423,2,0,5.17,Tablet,Android
+50068,2023-02-16 12:18:20,1,7,False,36,Female,Rural,Paid Ads,314,0,0,4.75,Tablet,Windows
+80272,2023-02-16 16:30:51,7,5,True,18,Non-Binary,Rural,Direct Search,394,0,0,3.53,Desktop,Windows
+83135,2023-02-16 20:12:52,4,5,True,24,Non-Binary,Urban,Direct Search,393,0,0,4.31,Desktop,Windows
+81786,2023-02-17 01:53:06,11,6,True,45,Non-Binary,Suburban,Direct Search,727,0,0,3.27,Desktop,Linux
+19635,2023-02-17 02:05:35,3,7,False,40,Female,Rural,Social Media,465,2,1,3.06,Mobile,macOS
+79524,2023-02-17 11:44:33,4,4,False,21,Female,Suburban,Email,564,0,2,3.06,Tablet,iOS
+63121,2023-02-17 11:56:28,4,5,True,40,Non-Binary,Urban,Direct Search,374,0,1,3.01,Tablet,Android
+40105,2023-02-18 01:36:25,6,6,True,20,Male,Suburban,Social Media,550,4,0,3.48,Desktop,macOS
+33757,2023-02-18 05:23:44,5,7,False,18,Non-Binary,Urban,Social Media,383,4,0,3.38,Mobile,Android
+84498,2023-02-18 07:45:36,5,5,True,35,Male,Suburban,Email,385,0,0,1.73,Desktop,Android
+51407,2023-02-18 18:30:53,3,5,True,19,Non-Binary,Urban,Email,379,0,0,3.78,Tablet,macOS
+14680,2023-02-18 22:32:58,5,6,False,42,Female,Suburban,Social Media,493,0,0,3.88,Desktop,Windows
+64685,2023-02-18 22:57:53,4,5,True,18,Male,Suburban,Social Media,537,0,0,4.94,Tablet,macOS
+80841,2023-02-19 06:57:11,4,6,False,19,Non-Binary,Rural,Paid Ads,608,0,1,0.5,Mobile,iOS
+48008,2023-02-19 10:12:17,6,3,True,32,Female,Suburban,Direct Search,187,1,1,3.29,Tablet,Windows
+98754,2023-02-20 00:21:58,5,4,False,19,Male,Suburban,Email,628,1,0,0.71,Mobile,iOS
+81166,2023-02-20 09:56:19,5,7,True,22,Male,Suburban,Email,489,0,0,4.02,Mobile,macOS
+85523,2023-02-20 20:49:52,5,5,True,47,Male,Rural,Paid Ads,758,0,1,4.74,Mobile,Linux
+19724,2023-02-21 01:04:44,6,5,False,30,Male,Urban,Direct Search,799,3,1,3.65,Tablet,Windows
+28129,2023-02-21 07:34:33,2,7,True,21,Male,Urban,Email,519,0,0,4.1,Tablet,Windows
+10093,2023-02-22 08:22:09,2,6,True,29,Male,Suburban,Paid Ads,592,0,1,1.87,Desktop,iOS
+94523,2023-02-22 09:12:30,6,3,True,41,Male,Urban,Social Media,632,0,1,1.26,Mobile,iOS
+90186,2023-02-22 20:24:33,3,6,True,57,Non-Binary,Urban,Email,417,0,0,3.46,Tablet,Linux
+84650,2023-02-22 20:45:19,3,7,True,39,Male,Urban,Direct Search,493,1,1,1.46,Mobile,Android
+93099,2023-02-23 01:33:49,7,3,False,41,Female,Suburban,Email,388,0,0,3.17,Desktop,macOS
+33761,2023-02-23 03:15:56,6,4,False,33,Female,Rural,Social Media,619,2,1,1.13,Desktop,Android
+53349,2023-02-23 12:08:04,6,3,True,36,Non-Binary,Suburban,Paid Ads,295,0,0,0.06,Desktop,Android
+62677,2023-02-24 12:26:29,5,5,True,58,Non-Binary,Urban,Email,556,0,2,1.0,Desktop,Android
+93697,2023-02-24 20:37:34,9,6,False,27,Female,Suburban,Direct Search,476,0,1,3.31,Mobile,Linux
+12757,2023-02-24 23:47:19,4,4,True,62,Male,Suburban,Paid Ads,314,0,0,3.86,Mobile,Android
+96904,2023-02-26 05:35:53,4,6,False,61,Female,Suburban,Social Media,470,2,0,1.15,Mobile,Windows
+84573,2023-02-26 11:46:02,5,6,False,26,Male,Rural,Social Media,414,0,1,3.11,Desktop,Windows
+63743,2023-02-26 15:30:23,5,3,True,19,Female,Urban,Social Media,594,0,1,3.2,Tablet,Linux
+58851,2023-02-26 15:33:26,7,5,True,42,Non-Binary,Urban,Email,475,2,1,1.49,Mobile,Android
+48372,2023-02-26 23:34:52,5,4,True,21,Female,Suburban,Direct Search,675,1,0,4.25,Mobile,Linux
+81968,2023-02-27 00:46:43,8,4,True,31,Female,Rural,Direct Search,242,3,0,5.1,Mobile,macOS
+48569,2023-02-27 06:19:49,8,4,False,56,Male,Rural,Direct Search,660,1,1,3.74,Mobile,iOS
+30099,2023-02-27 19:42:14,7,7,True,25,Male,Rural,Direct Search,421,0,1,4.04,Desktop,iOS
+54296,2023-02-28 02:51:42,4,6,True,25,Female,Urban,Paid Ads,215,5,0,4.04,Desktop,Windows
+31752,2023-02-28 06:10:37,4,6,True,28,Female,Rural,Direct Search,223,0,0,2.34,Mobile,Android
+77604,2023-02-28 06:18:59,4,2,True,41,Male,Suburban,Social Media,758,0,1,3.76,Mobile,macOS
+24859,2023-02-28 09:08:38,6,5,False,38,Non-Binary,Urban,Social Media,608,0,0,4.15,Desktop,Windows
+89193,2023-02-28 15:07:29,3,4,False,20,Non-Binary,Suburban,Paid Ads,570,35,3,1.6,Mobile,Windows
+81712,2023-02-28 22:24:27,5,4,True,31,Female,Suburban,Paid Ads,378,0,2,2.11,Mobile,Linux
+11221,2023-03-01 06:26:25,4,5,True,41,Non-Binary,Suburban,Social Media,593,124,1,1.86,Desktop,iOS
+97314,2023-03-02 02:06:57,6,4,True,30,Non-Binary,Suburban,Email,316,2,0,0.83,Desktop,macOS
+23907,2023-03-02 02:10:11,4,6,True,41,Female,Urban,Paid Ads,339,0,0,-0.63,Desktop,Linux
+64198,2023-03-02 05:55:35,3,7,True,42,Female,Suburban,Email,474,1,0,1.8,Tablet,Linux
+56522,2023-03-02 12:28:02,8,5,True,36,Non-Binary,Urban,Direct Search,478,0,1,3.27,Tablet,Windows
+98910,2023-03-03 08:29:54,3,3,True,47,Female,Urban,Social Media,662,0,0,3.84,Desktop,Windows
+33482,2023-03-03 22:30:21,6,5,True,39,Female,Rural,Direct Search,443,0,1,2.38,Tablet,Windows
+58371,2023-03-05 20:56:17,7,5,True,63,Male,Rural,Direct Search,200,0,1,3.31,Desktop,macOS
+49905,2023-03-06 07:43:45,10,6,False,39,Female,Urban,Email,584,0,1,2.11,Mobile,Android
+59279,2023-03-06 19:05:34,9,6,True,30,Male,Suburban,Paid Ads,613,4,1,2.03,Desktop,macOS
+56499,2023-03-07 00:20:21,3,3,True,20,Male,Suburban,Paid Ads,719,0,0,0.55,Mobile,Android
+49606,2023-03-07 05:42:08,5,5,True,19,Non-Binary,Urban,Direct Search,462,0,0,-0.24,Mobile,macOS
+36743,2023-03-07 09:29:30,7,5,True,41,Non-Binary,Urban,Email,492,1,0,3.44,Mobile,Android
+25620,2023-03-07 09:32:48,7,3,True,37,Male,Suburban,Email,566,92,1,0.42,Tablet,Windows
+39844,2023-03-07 21:34:12,4,6,True,18,Male,Rural,Paid Ads,533,41,0,3.89,Tablet,Windows
+19774,2023-03-08 00:29:04,6,1,True,38,Non-Binary,Urban,Email,522,0,0,2.96,Desktop,iOS
+36872,2023-03-09 07:13:12,10,6,True,20,Male,Rural,Direct Search,552,0,0,1.34,Mobile,Windows
+65082,2023-03-10 14:34:09,7,3,False,35,Non-Binary,Suburban,Email,428,0,0,2.76,Desktop,Windows
+61811,2023-03-10 18:24:24,4,3,True,18,Male,Rural,Direct Search,287,1,1,1.93,Mobile,Android
+44706,2023-03-10 23:40:40,5,5,True,49,Female,Urban,Direct Search,637,0,0,4.27,Tablet,macOS
+64779,2023-03-11 01:14:57,2,5,False,50,Non-Binary,Urban,Direct Search,416,8,0,3.1,Tablet,Windows
+42230,2023-03-11 01:19:29,1,5,True,28,Female,Rural,Email,362,0,1,2.42,Desktop,Windows
+55192,2023-03-11 01:38:38,4,6,True,43,Male,Urban,Email,513,0,1,4.52,Mobile,Android
+47292,2023-03-11 14:00:51,1,5,True,40,Male,Suburban,Direct Search,615,0,2,3.12,Desktop,macOS
+41958,2023-03-11 17:58:03,4,3,False,30,Non-Binary,Suburban,Social Media,723,0,0,2.41,Desktop,Android
+34785,2023-03-12 12:26:10,7,6,False,18,Non-Binary,Urban,Email,423,0,0,2.4,Mobile,Linux
+64019,2023-03-12 23:41:22,6,5,True,41,Non-Binary,Urban,Social Media,651,0,0,5.4,Mobile,macOS
+24672,2023-03-13 01:08:53,7,5,True,52,Non-Binary,Suburban,Social Media,610,2,1,3.59,Mobile,macOS
+32597,2023-03-13 02:25:07,3,6,True,24,Non-Binary,Urban,Paid Ads,210,0,0,2.23,Mobile,iOS
+22918,2023-03-13 08:36:07,8,6,True,39,Female,Suburban,Paid Ads,547,0,0,0.71,Tablet,macOS
+77890,2023-03-13 09:14:22,9,5,True,49,Female,Urban,Social Media,687,0,0,1.81,Tablet,Windows
+65913,2023-03-13 11:22:35,5,9,True,28,Non-Binary,Suburban,Direct Search,379,2,1,0.65,Tablet,macOS
+83929,2023-03-13 20:11:04,7,6,True,45,Female,Suburban,Email,439,1,0,5.7,Desktop,iOS
+63630,2023-03-13 22:50:32,8,5,False,46,Male,Suburban,Paid Ads,545,0,1,2.8,Tablet,Linux
+45312,2023-03-14 10:57:05,8,5,True,64,Female,Urban,Email,773,0,0,1.48,Tablet,iOS
+59756,2023-03-14 12:55:17,6,4,True,48,Non-Binary,Rural,Paid Ads,415,0,1,2.77,Desktop,Linux
+40857,2023-03-14 18:22:05,5,6,True,22,Female,Rural,Direct Search,578,0,0,4.03,Tablet,Linux
+90966,2023-03-15 01:42:58,4,7,True,36,Non-Binary,Suburban,Social Media,569,0,1,1.67,Mobile,Android
+83381,2023-03-16 02:05:11,5,5,True,45,Female,Rural,Email,591,0,1,2.39,Mobile,Linux
+62573,2023-03-16 09:49:25,5,6,False,53,Non-Binary,Rural,Email,592,0,0,3.88,Desktop,iOS
+13886,2023-03-17 04:13:00,7,4,True,38,Male,Suburban,Direct Search,574,6,0,1.48,Desktop,Android
+29521,2023-03-17 08:29:18,5,4,False,44,Female,Suburban,Paid Ads,369,4,0,0.41,Tablet,macOS
+99514,2023-03-17 12:06:52,5,7,False,19,Male,Suburban,Social Media,630,0,2,2.98,Tablet,Windows
+50703,2023-03-17 20:46:33,5,4,True,24,Male,Rural,Paid Ads,412,0,0,3.45,Tablet,Android
+19359,2023-03-18 02:42:52,5,6,True,39,Female,Urban,Social Media,360,2,1,4.64,Desktop,iOS
+30737,2023-03-18 20:09:58,6,3,False,25,Male,Suburban,Email,455,0,1,1.78,Mobile,macOS
+58600,2023-03-19 08:14:57,3,6,True,36,Male,Suburban,Email,245,0,0,4.92,Desktop,Linux
+35785,2023-03-19 12:31:01,5,4,True,19,Female,Suburban,Paid Ads,446,0,1,3.69,Desktop,Android
+27553,2023-03-19 16:21:12,2,3,True,19,Female,Urban,Direct Search,568,0,0,0.13,Tablet,macOS
+67508,2023-03-19 18:28:18,3,2,True,46,Non-Binary,Suburban,Email,316,0,0,3.48,Tablet,Linux
+82554,2023-03-20 13:39:36,6,8,False,19,Female,Urban,Email,391,0,0,3.72,Mobile,macOS
+90163,2023-03-20 15:26:20,4,5,True,30,Non-Binary,Rural,Email,491,9,0,2.33,Mobile,macOS
+88709,2023-03-20 21:11:17,2,3,True,59,Male,Suburban,Paid Ads,544,0,1,-1.15,Mobile,iOS
+54550,2023-03-21 02:25:27,5,2,True,39,Female,Rural,Paid Ads,229,0,0,6.1,Tablet,Android
+37741,2023-03-22 00:24:53,7,4,True,33,Male,Rural,Email,403,0,1,5.13,Desktop,Android
+13912,2023-03-22 02:36:14,1,5,False,61,Non-Binary,Urban,Email,532,0,0,3.05,Desktop,Linux
+75219,2023-03-22 20:47:42,2,4,True,43,Non-Binary,Urban,Social Media,384,1,2,-0.96,Mobile,Windows
+69693,2023-03-23 05:17:06,4,5,False,24,Female,Urban,Paid Ads,307,0,0,3.74,Tablet,Android
+44183,2023-03-23 18:50:42,4,4,True,26,Male,Suburban,Direct Search,482,0,1,3.68,Desktop,Android
+30427,2023-03-23 21:51:00,6,3,True,42,Female,Suburban,Social Media,444,1,0,2.3,Tablet,macOS
+31863,2023-03-23 22:37:34,3,6,False,26,Female,Suburban,Paid Ads,804,0,0,0.76,Mobile,Android
+57883,2023-03-24 02:07:20,6,4,True,23,Non-Binary,Urban,Email,628,0,1,1.77,Mobile,iOS
+83728,2023-03-24 13:32:34,5,6,True,28,Female,Urban,Paid Ads,494,0,0,5.46,Mobile,macOS
+25127,2023-03-24 17:58:35,6,7,True,29,Female,Rural,Email,390,0,0,2.16,Mobile,Linux
+76209,2023-03-25 16:28:10,5,3,False,37,Male,Rural,Email,377,0,0,4.06,Desktop,Linux
+85881,2023-03-25 17:52:53,4,7,True,38,Non-Binary,Rural,Social Media,672,0,2,3.53,Mobile,Linux
+55548,2023-03-26 04:56:43,4,5,True,26,Non-Binary,Rural,Direct Search,491,2,1,4.99,Tablet,Linux
+99935,2023-03-26 06:23:33,4,3,True,24,Male,Rural,Direct Search,339,0,0,0.21,Tablet,Linux
+91858,2023-03-26 13:28:20,5,5,False,37,Female,Suburban,Social Media,344,3,1,6.22,Mobile,iOS
+74223,2023-03-26 17:57:11,4,7,True,35,Female,Rural,Social Media,860,0,0,2.21,Tablet,Linux
+66337,2023-03-26 19:54:24,3,5,True,27,Male,Rural,Paid Ads,534,0,2,3.45,Tablet,Linux
+36956,2023-03-27 03:15:40,8,6,True,43,Male,Rural,Social Media,620,45,0,3.65,Tablet,iOS
+58008,2023-03-27 07:37:09,4,5,True,63,Female,Urban,Email,569,3,0,1.5,Mobile,macOS
+27089,2023-03-27 20:05:36,5,6,True,31,Female,Rural,Direct Search,279,2,0,2.84,Tablet,Linux
+21636,2023-03-27 21:11:38,3,5,True,39,Female,Rural,Social Media,512,0,0,3.7,Tablet,Windows
+85358,2023-03-28 10:18:34,8,5,False,44,Non-Binary,Urban,Paid Ads,776,17,2,-0.08,Mobile,macOS
+89701,2023-03-28 13:24:45,2,5,True,38,Female,Urban,Direct Search,517,1,1,2.15,Mobile,macOS
+39893,2023-03-28 17:35:31,5,5,False,32,Non-Binary,Rural,Paid Ads,370,0,2,3.25,Mobile,iOS
+75180,2023-03-28 21:27:19,8,6,True,19,Female,Suburban,Paid Ads,685,0,0,3.0,Mobile,macOS
+92212,2023-03-29 06:34:59,2,4,True,38,Male,Rural,Paid Ads,481,0,0,3.25,Desktop,Windows
+28821,2023-03-29 12:21:10,6,5,False,52,Non-Binary,Suburban,Paid Ads,208,6,0,5.18,Mobile,iOS
+23824,2023-03-30 00:05:20,4,7,True,63,Non-Binary,Rural,Email,526,0,0,2.15,Desktop,Windows
+51750,2023-03-30 09:35:36,3,5,True,29,Male,Rural,Email,432,0,2,4.54,Desktop,Windows
+24705,2023-03-30 09:43:14,6,8,True,23,Female,Urban,Email,553,15,1,1.55,Mobile,macOS
+45044,2023-03-30 22:08:55,5,5,True,20,Female,Suburban,Social Media,281,0,0,2.18,Tablet,Linux
+62668,2023-03-31 18:07:31,9,6,False,24,Female,Urban,Direct Search,663,0,0,2.5,Desktop,iOS
+33059,2023-04-01 04:28:58,6,4,True,20,Male,Urban,Email,666,0,2,2.53,Mobile,Linux
+69715,2023-04-01 08:24:28,3,7,True,29,Female,Suburban,Social Media,319,0,1,0.8,Mobile,iOS
+47010,2023-04-01 14:59:45,4,8,True,29,Female,Urban,Direct Search,291,0,1,2.12,Mobile,macOS
+83828,2023-04-02 03:37:11,3,7,True,33,Male,Suburban,Direct Search,548,1,1,3.62,Tablet,Linux
+51574,2023-04-02 10:41:24,4,4,True,34,Female,Urban,Paid Ads,532,0,1,1.65,Tablet,Windows
+17734,2023-04-02 17:05:20,6,6,False,34,Male,Suburban,Social Media,554,2,0,4.81,Desktop,iOS
+78268,2023-04-03 22:51:27,4,6,False,35,Male,Urban,Social Media,505,3,0,3.03,Tablet,Windows
+20413,2023-04-03 23:58:21,5,3,True,30,Male,Urban,Direct Search,490,0,0,4.42,Mobile,iOS
+28013,2023-04-05 07:18:38,4,4,False,40,Male,Rural,Social Media,578,0,1,3.45,Tablet,Android
+24226,2023-04-05 14:48:31,5,4,True,52,Female,Urban,Direct Search,575,0,1,4.59,Tablet,macOS
+67308,2023-04-06 03:09:56,6,4,True,28,Male,Rural,Email,564,1,1,4.81,Desktop,Linux
+12775,2023-04-07 05:05:03,1,3,True,28,Non-Binary,Rural,Social Media,568,0,1,2.38,Tablet,Windows
+55353,2023-04-07 05:51:00,6,6,True,48,Female,Urban,Paid Ads,641,1,1,5.12,Tablet,macOS
+53567,2023-04-07 15:01:21,7,5,False,34,Female,Rural,Email,454,2,0,4.06,Mobile,macOS
+34919,2023-04-07 18:49:41,6,7,True,40,Non-Binary,Suburban,Direct Search,399,1,2,6.26,Mobile,macOS
+25741,2023-04-08 01:19:47,5,4,True,23,Female,Urban,Social Media,684,0,2,4.72,Desktop,macOS
+31266,2023-04-08 12:30:27,2,3,True,28,Female,Suburban,Email,676,0,0,3.18,Desktop,iOS
+99068,2023-04-08 13:10:11,3,7,False,45,Female,Rural,Paid Ads,464,0,1,4.5,Desktop,iOS
+30045,2023-04-09 03:23:19,1,7,True,32,Female,Suburban,Paid Ads,786,1,0,4.75,Tablet,Android
+78755,2023-04-09 11:57:03,3,6,False,46,Non-Binary,Urban,Social Media,81,0,0,3.17,Desktop,Windows
+37257,2023-04-09 16:15:14,7,7,True,21,Female,Suburban,Direct Search,382,0,0,1.32,Desktop,macOS
+94355,2023-04-09 16:34:49,6,3,True,27,Male,Urban,Direct Search,357,0,0,4.71,Tablet,macOS
+45620,2023-04-09 19:29:40,6,7,True,33,Non-Binary,Suburban,Direct Search,481,0,1,6.17,Tablet,Android
+42884,2023-04-10 05:35:58,3,7,False,32,Female,Rural,Paid Ads,751,0,0,3.19,Mobile,macOS
+17788,2023-04-10 17:25:25,3,3,True,51,Female,Suburban,Paid Ads,710,0,1,0.84,Mobile,Android
+80533,2023-04-11 05:08:24,3,6,False,49,Non-Binary,Rural,Social Media,442,0,1,3.6,Tablet,Linux
+39363,2023-04-11 07:16:01,8,5,False,55,Non-Binary,Rural,Paid Ads,770,0,1,1.04,Desktop,Windows
+25835,2023-04-11 11:11:39,6,4,False,52,Female,Rural,Paid Ads,393,0,0,1.82,Tablet,macOS
+80557,2023-04-11 12:58:55,8,6,False,43,Female,Urban,Social Media,425,3,0,4.15,Mobile,Linux
+14207,2023-04-11 14:56:34,3,4,True,24,Non-Binary,Suburban,Direct Search,725,0,0,0.79,Mobile,macOS
+58373,2023-04-11 21:26:05,7,6,True,19,Male,Suburban,Social Media,503,1,1,-0.49,Tablet,macOS
+43415,2023-04-12 04:23:17,7,7,False,32,Male,Suburban,Email,316,0,0,4.49,Mobile,Linux
+21909,2023-04-12 07:16:23,6,5,True,19,Male,Rural,Social Media,323,1,1,1.31,Desktop,macOS
+33836,2023-04-12 14:02:18,3,5,True,63,Male,Suburban,Email,517,0,0,1.02,Desktop,iOS
+47619,2023-04-13 00:39:47,7,7,True,39,Non-Binary,Rural,Social Media,366,0,0,2.87,Mobile,macOS
+78473,2023-04-13 01:12:53,4,5,True,61,Non-Binary,Rural,Social Media,267,2,1,2.56,Mobile,Android
+44790,2023-04-13 15:12:05,5,8,True,36,Non-Binary,Suburban,Direct Search,559,1,1,3.43,Mobile,macOS
+83478,2023-04-14 01:32:08,3,4,True,24,Non-Binary,Rural,Social Media,811,0,1,3.62,Desktop,macOS
+76945,2023-04-14 12:07:27,8,4,True,19,Female,Urban,Email,577,0,0,4.88,Mobile,iOS
+50621,2023-04-14 14:22:06,9,8,True,33,Male,Rural,Direct Search,429,0,1,4.48,Tablet,Windows
+19481,2023-04-14 17:47:33,3,6,True,20,Male,Suburban,Email,335,0,1,4.92,Desktop,iOS
+40306,2023-04-16 06:01:54,6,6,False,44,Non-Binary,Urban,Paid Ads,565,0,1,-0.2,Desktop,iOS
+43374,2023-04-16 10:31:16,4,5,False,21,Male,Urban,Direct Search,61,0,1,5.38,Mobile,Windows
+99236,2023-04-17 11:33:13,3,4,True,30,Non-Binary,Suburban,Paid Ads,730,0,0,6.51,Desktop,iOS
+94338,2023-04-17 17:02:31,2,4,False,44,Male,Rural,Paid Ads,81,0,0,3.93,Mobile,Android
+91508,2023-04-18 09:49:38,8,2,False,56,Female,Urban,Direct Search,359,0,0,4.19,Tablet,Linux
+42308,2023-04-18 14:51:47,4,6,True,53,Female,Suburban,Social Media,632,0,1,2.0,Tablet,macOS
+62280,2023-04-18 16:46:32,5,5,True,25,Non-Binary,Suburban,Direct Search,548,0,0,4.66,Tablet,Linux
+95728,2023-04-19 19:04:11,2,3,True,36,Female,Suburban,Social Media,557,0,0,3.93,Mobile,Android
+21834,2023-04-19 20:29:18,4,3,True,27,Male,Rural,Direct Search,413,0,2,1.73,Tablet,macOS
+62115,2023-04-20 19:51:41,5,5,True,28,Female,Rural,Direct Search,441,0,1,3.07,Tablet,Windows
+39353,2023-04-21 01:21:09,4,2,False,29,Male,Rural,Direct Search,404,0,1,4.93,Mobile,macOS
+66638,2023-04-21 16:59:49,3,8,True,27,Female,Urban,Social Media,669,0,1,3.45,Mobile,iOS
+67961,2023-04-22 04:29:01,1,5,True,32,Male,Rural,Direct Search,839,0,0,1.4,Mobile,macOS
+31074,2023-04-22 21:46:46,2,5,True,57,Non-Binary,Rural,Email,499,4,1,2.96,Mobile,Windows
+65751,2023-04-23 00:40:19,1,3,False,51,Female,Suburban,Paid Ads,469,2,0,1.68,Mobile,Linux
+64355,2023-04-23 08:02:29,4,4,False,55,Non-Binary,Urban,Paid Ads,473,0,0,4.89,Mobile,Windows
+42891,2023-04-24 06:31:59,2,3,False,36,Non-Binary,Suburban,Paid Ads,252,0,0,3.25,Tablet,Linux
+92307,2023-04-25 00:52:24,4,5,True,37,Non-Binary,Urban,Paid Ads,199,0,0,0.38,Desktop,iOS
+10100,2023-04-25 01:54:28,1,5,True,48,Non-Binary,Suburban,Social Media,729,0,2,2.24,Tablet,Windows
+89128,2023-04-25 15:30:25,4,6,True,18,Female,Urban,Direct Search,427,7,1,2.63,Desktop,iOS
+43930,2023-04-25 20:49:12,2,4,False,19,Female,Urban,Social Media,412,0,0,2.58,Tablet,macOS
+11913,2023-04-26 01:53:21,7,5,False,21,Female,Suburban,Paid Ads,526,0,1,5.52,Desktop,Linux
+64545,2023-04-26 02:30:11,7,5,True,20,Male,Urban,Email,528,0,0,1.68,Desktop,iOS
+30183,2023-04-26 02:34:56,8,3,True,30,Non-Binary,Urban,Direct Search,413,0,0,1.36,Tablet,Linux
+86323,2023-04-26 06:37:35,6,4,False,25,Male,Urban,Social Media,752,0,0,2.29,Tablet,iOS
+86999,2023-04-27 03:00:24,3,7,False,45,Non-Binary,Rural,Email,678,0,0,-0.6,Mobile,Windows
+87525,2023-04-27 08:50:26,5,8,True,40,Female,Urban,Direct Search,486,0,0,2.86,Mobile,Linux
+21498,2023-04-27 09:50:48,2,6,True,32,Female,Urban,Social Media,728,0,0,0.93,Mobile,Windows
+37342,2023-04-28 21:15:36,7,6,False,39,Female,Rural,Email,593,1,0,2.13,Tablet,Linux
+39442,2023-04-29 09:57:59,5,2,False,29,Female,Urban,Direct Search,688,0,2,2.51,Mobile,Windows
+44088,2023-04-29 21:55:49,6,5,True,24,Non-Binary,Suburban,Social Media,573,0,0,4.42,Tablet,Windows
+32302,2023-04-30 01:04:44,5,5,True,36,Non-Binary,Urban,Social Media,483,1,1,4.28,Mobile,iOS
+70535,2023-04-30 05:52:27,5,7,True,23,Non-Binary,Rural,Social Media,358,5,0,4.93,Desktop,Android
+58691,2023-04-30 15:05:28,5,5,True,33,Non-Binary,Rural,Email,714,0,0,4.03,Mobile,iOS
+29608,2023-04-30 15:09:14,4,6,True,29,Female,Rural,Paid Ads,668,1,0,0.68,Mobile,Android
+52441,2023-05-01 01:14:48,10,6,True,26,Male,Suburban,Email,739,0,0,2.04,Mobile,Linux
+87929,2023-05-01 13:47:36,5,6,True,45,Male,Rural,Email,573,0,0,2.95,Desktop,Windows
+65397,2023-05-01 17:07:37,3,6,True,40,Female,Suburban,Social Media,472,13,0,5.22,Tablet,Linux
+12418,2023-05-02 08:36:22,5,4,False,41,Male,Suburban,Email,556,1,0,2.36,Desktop,Linux
+49308,2023-05-02 08:54:59,5,7,True,24,Male,Urban,Email,385,0,0,3.61,Tablet,Linux
+22912,2023-05-02 11:04:47,5,7,True,25,Male,Urban,Paid Ads,205,0,0,1.97,Tablet,Android
+81777,2023-05-02 22:38:18,9,6,False,25,Female,Suburban,Direct Search,496,0,0,0.53,Mobile,iOS
+45489,2023-05-02 23:12:39,6,5,True,27,Non-Binary,Rural,Email,411,0,0,3.17,Mobile,Windows
+36703,2023-05-03 16:35:39,8,4,True,21,Non-Binary,Urban,Email,358,0,1,5.84,Desktop,Android
+63478,2023-05-03 20:26:41,9,7,False,21,Female,Rural,Social Media,495,0,0,0.88,Mobile,Android
+99987,2023-05-03 23:31:58,8,5,False,31,Female,Urban,Social Media,532,0,0,3.05,Tablet,Windows
+35329,2023-05-04 01:25:01,6,5,True,32,Female,Urban,Social Media,439,0,0,4.11,Mobile,macOS
+26080,2023-05-04 04:33:46,9,3,False,22,Non-Binary,Rural,Email,561,1,0,3.33,Desktop,iOS
+87285,2023-05-04 13:15:26,3,5,True,37,Female,Urban,Direct Search,118,0,1,1.77,Desktop,Linux
+15028,2023-05-05 03:30:38,5,4,True,34,Male,Suburban,Direct Search,678,0,0,1.3,Desktop,macOS
+20096,2023-05-05 17:48:51,9,6,True,25,Female,Urban,Direct Search,272,0,1,4.09,Desktop,Android
+82363,2023-05-05 22:39:27,7,5,False,35,Female,Suburban,Paid Ads,441,1,1,4.38,Desktop,iOS
+66132,2023-05-06 00:34:01,9,5,False,22,Female,Rural,Email,511,0,1,4.44,Desktop,Linux
+76564,2023-05-06 02:01:08,5,4,True,58,Female,Suburban,Direct Search,455,0,1,2.83,Mobile,Windows
+78826,2023-05-06 02:56:33,5,5,True,29,Female,Suburban,Social Media,522,0,0,4.05,Mobile,Linux
+34528,2023-05-06 08:21:19,4,4,True,36,Non-Binary,Suburban,Social Media,705,5,0,3.08,Tablet,Linux
+68503,2023-05-07 21:06:42,5,3,True,47,Female,Urban,Email,610,0,0,4.03,Tablet,iOS
+49789,2023-05-08 08:13:27,6,6,True,22,Non-Binary,Urban,Social Media,781,43,0,4.77,Mobile,Linux
+15802,2023-05-08 18:37:13,3,6,True,31,Male,Urban,Direct Search,742,43,0,4.7,Mobile,iOS
+81331,2023-05-09 09:01:06,2,6,False,57,Non-Binary,Suburban,Paid Ads,677,2,0,4.51,Tablet,macOS
+11384,2023-05-09 12:04:24,7,4,True,32,Female,Urban,Social Media,529,0,1,2.5,Desktop,macOS
+10851,2023-05-10 15:14:31,1,3,True,29,Male,Rural,Direct Search,500,0,1,3.11,Desktop,macOS
+66487,2023-05-10 18:08:24,4,8,True,19,Non-Binary,Suburban,Paid Ads,487,0,1,2.88,Desktop,Android
+55444,2023-05-11 12:25:54,3,2,False,58,Male,Suburban,Direct Search,555,2,1,2.81,Tablet,Windows
+37867,2023-05-11 16:49:20,3,5,True,36,Female,Urban,Paid Ads,737,0,2,3.71,Tablet,iOS
+70809,2023-05-11 21:25:59,5,7,True,34,Non-Binary,Rural,Direct Search,392,0,1,1.83,Tablet,iOS
+91920,2023-05-13 08:16:22,6,4,False,36,Male,Suburban,Direct Search,540,0,0,3.57,Desktop,iOS
+82130,2023-05-14 01:52:02,9,7,False,24,Non-Binary,Urban,Direct Search,415,7,0,2.75,Tablet,Linux
+96384,2023-05-14 05:29:38,8,2,False,26,Female,Urban,Direct Search,806,0,0,5.08,Tablet,iOS
+18286,2023-05-14 09:01:18,4,4,True,19,Non-Binary,Urban,Paid Ads,512,0,0,4.17,Tablet,macOS
+90212,2023-05-14 15:40:40,4,4,True,19,Female,Rural,Email,441,0,0,2.16,Desktop,Windows
+98624,2023-05-15 03:56:22,4,6,False,61,Non-Binary,Urban,Social Media,436,0,1,3.07,Tablet,Linux
+18010,2023-05-15 04:29:59,8,4,True,62,Non-Binary,Suburban,Direct Search,594,0,0,5.5,Desktop,Android
+52661,2023-05-15 05:09:00,6,6,True,44,Non-Binary,Urban,Paid Ads,537,0,0,4.03,Mobile,Windows
+66620,2023-05-15 06:15:11,1,5,True,58,Male,Suburban,Paid Ads,296,0,1,3.25,Tablet,iOS
+75094,2023-05-15 07:00:50,6,4,False,36,Female,Urban,Paid Ads,642,4,0,4.05,Desktop,iOS
+72756,2023-05-15 07:35:13,1,5,False,58,Male,Rural,Paid Ads,471,0,0,4.86,Mobile,iOS
+81892,2023-05-15 12:54:40,5,4,True,36,Non-Binary,Suburban,Email,575,0,1,-0.91,Tablet,iOS
+78727,2023-05-15 13:57:29,4,5,False,52,Non-Binary,Rural,Direct Search,645,0,1,2.64,Mobile,Windows
+60951,2023-05-15 21:26:42,6,4,False,40,Non-Binary,Rural,Social Media,496,0,0,1.98,Desktop,iOS
+18472,2023-05-16 10:39:48,5,6,True,50,Non-Binary,Rural,Social Media,406,0,0,1.12,Desktop,Linux
+67741,2023-05-16 11:05:55,7,6,False,18,Male,Suburban,Direct Search,572,1,1,4.7,Desktop,iOS
+71185,2023-05-16 18:14:52,5,2,True,25,Male,Rural,Direct Search,551,0,0,5.0,Tablet,Linux
+43354,2023-05-16 22:41:21,8,7,True,30,Male,Rural,Paid Ads,527,0,0,5.37,Tablet,iOS
+50605,2023-05-17 00:05:37,1,5,True,24,Female,Suburban,Email,473,1,1,2.95,Tablet,Android
+43920,2023-05-17 17:48:58,5,5,True,40,Female,Suburban,Direct Search,153,0,0,5.8,Desktop,Android
+62620,2023-05-18 20:50:24,7,1,True,21,Non-Binary,Suburban,Email,132,1,1,2.01,Mobile,Windows
+76181,2023-05-18 23:36:16,6,4,False,35,Non-Binary,Rural,Social Media,692,0,1,2.9,Tablet,Linux
+32901,2023-05-19 08:24:10,6,5,True,41,Female,Suburban,Social Media,438,0,0,1.47,Tablet,iOS
+88928,2023-05-19 14:13:15,4,3,False,19,Male,Rural,Email,654,1,0,3.56,Tablet,Linux
+98554,2023-05-19 16:40:31,6,3,True,25,Non-Binary,Suburban,Direct Search,547,0,1,1.45,Mobile,iOS
+67447,2023-05-19 19:51:16,7,8,True,18,Male,Rural,Social Media,282,1,0,0.97,Desktop,iOS
+55856,2023-05-20 08:41:38,12,6,True,38,Non-Binary,Urban,Paid Ads,612,1,1,2.62,Desktop,Linux
+25265,2023-05-20 13:50:57,5,6,True,39,Female,Rural,Direct Search,482,1,0,1.57,Tablet,Android
+60624,2023-05-21 00:53:24,3,4,True,46,Male,Rural,Email,507,0,0,2.95,Desktop,Linux
+67852,2023-05-21 05:18:11,4,3,True,41,Male,Rural,Direct Search,770,7,0,3.28,Desktop,Linux
+92727,2023-05-21 06:50:37,4,5,True,35,Female,Rural,Social Media,577,14,0,1.33,Tablet,iOS
+91411,2023-05-21 23:38:13,4,5,True,23,Female,Rural,Paid Ads,473,0,0,5.48,Mobile,Linux
+53864,2023-05-23 09:18:06,5,8,True,34,Female,Urban,Direct Search,663,0,0,4.44,Tablet,Linux
+60586,2023-05-23 20:27:55,7,6,True,56,Male,Suburban,Direct Search,476,0,0,2.0,Mobile,iOS
+57394,2023-05-23 21:03:31,4,5,True,46,Non-Binary,Urban,Paid Ads,366,0,1,4.34,Tablet,Linux
+18058,2023-05-23 23:33:57,7,4,True,41,Non-Binary,Suburban,Email,598,0,1,2.66,Desktop,Android
+77398,2023-05-24 10:40:19,7,5,False,24,Female,Urban,Direct Search,465,0,2,3.25,Desktop,Android
+73003,2023-05-24 23:20:52,6,6,True,57,Non-Binary,Urban,Social Media,383,3,1,3.76,Mobile,iOS
+94917,2023-05-25 00:53:01,6,6,False,52,Non-Binary,Urban,Direct Search,444,3,1,3.3,Tablet,Linux
+26881,2023-05-25 01:16:03,6,5,True,18,Male,Urban,Social Media,435,1,0,2.53,Desktop,iOS
+79914,2023-05-25 03:25:13,7,5,True,23,Non-Binary,Rural,Social Media,833,0,0,2.95,Mobile,Android
+96465,2023-05-25 08:05:28,5,5,True,31,Female,Rural,Direct Search,557,1,0,3.79,Mobile,iOS
+78955,2023-05-25 08:06:11,2,6,True,21,Non-Binary,Urban,Email,739,0,1,3.6,Desktop,Android
+60863,2023-05-26 11:31:55,4,2,False,18,Male,Urban,Paid Ads,507,10,0,2.61,Mobile,Windows
+89835,2023-05-26 16:53:44,3,4,False,27,Female,Rural,Paid Ads,565,0,1,2.61,Tablet,Android
+37479,2023-05-26 18:49:09,4,5,True,24,Female,Urban,Social Media,555,1,0,2.16,Desktop,iOS
+69618,2023-05-26 22:47:29,7,5,True,35,Male,Urban,Direct Search,606,0,0,1.74,Mobile,Linux
+82862,2023-05-27 01:48:22,6,5,True,37,Female,Suburban,Email,387,2,0,3.39,Desktop,Android
+40360,2023-05-28 09:09:51,10,6,False,49,Non-Binary,Suburban,Paid Ads,276,1,1,0.34,Mobile,Windows
+65026,2023-05-28 19:49:46,4,2,False,23,Male,Suburban,Direct Search,272,0,0,3.93,Tablet,Linux
+22404,2023-05-28 21:21:43,14,5,True,25,Female,Urban,Social Media,640,2,1,1.33,Tablet,iOS
+72746,2023-05-29 00:55:57,1,7,False,51,Non-Binary,Suburban,Email,288,0,1,0.98,Tablet,Windows
+91148,2023-05-29 01:59:31,5,5,True,37,Non-Binary,Suburban,Email,385,0,0,2.69,Mobile,Windows
+97051,2023-05-29 07:51:39,3,3,False,28,Non-Binary,Urban,Direct Search,467,0,1,3.54,Tablet,macOS
+64254,2023-05-29 15:44:56,6,5,True,30,Female,Urban,Social Media,690,1,0,1.92,Tablet,Linux
+98477,2023-05-30 00:56:36,5,6,True,55,Female,Urban,Direct Search,714,0,0,4.42,Mobile,iOS
+72838,2023-05-30 09:02:01,3,5,False,28,Non-Binary,Urban,Email,497,1,0,2.27,Mobile,Android
+34530,2023-05-30 18:44:23,6,7,True,42,Non-Binary,Suburban,Social Media,390,0,0,3.38,Desktop,Linux
+64762,2023-05-31 00:27:27,6,6,True,50,Non-Binary,Suburban,Paid Ads,556,5,1,4.78,Mobile,macOS
+39267,2023-05-31 04:02:28,7,4,False,34,Male,Rural,Email,723,0,2,0.32,Tablet,iOS
+33905,2023-06-01 00:44:16,4,10,True,19,Female,Urban,Social Media,718,1,0,2.36,Desktop,iOS
+15103,2023-06-01 09:22:30,5,8,True,19,Female,Rural,Direct Search,612,1,1,5.06,Mobile,Windows
+25115,2023-06-01 17:33:42,5,3,True,28,Male,Urban,Social Media,469,0,0,4.17,Desktop,iOS
+70781,2023-06-01 18:20:41,2,2,True,31,Female,Urban,Direct Search,388,6,0,2.87,Mobile,macOS
+92991,2023-06-01 18:28:23,10,5,True,24,Non-Binary,Rural,Direct Search,453,0,3,2.53,Tablet,Android
+26957,2023-06-01 22:45:29,3,6,True,28,Male,Suburban,Email,602,0,2,2.31,Mobile,Linux
+68085,2023-06-02 18:26:36,3,3,True,30,Non-Binary,Suburban,Email,878,0,0,4.62,Tablet,Windows
+77674,2023-06-03 07:23:25,11,6,True,51,Male,Rural,Direct Search,580,1,2,3.29,Mobile,Windows
+73366,2023-06-03 14:19:43,12,3,True,33,Female,Urban,Email,525,2,1,2.09,Mobile,macOS
+57312,2023-06-03 15:02:33,3,7,True,20,Male,Rural,Paid Ads,492,1,1,1.9,Desktop,Windows
+16921,2023-06-03 16:54:00,5,5,True,48,Female,Rural,Email,443,0,1,2.59,Mobile,Windows
+39111,2023-06-05 14:57:35,6,4,False,32,Male,Urban,Social Media,359,1,0,0.32,Desktop,macOS
+14485,2023-06-05 15:57:10,2,4,True,37,Male,Suburban,Email,507,0,1,3.83,Tablet,iOS
+65255,2023-06-06 06:35:32,4,3,False,30,Male,Urban,Social Media,510,0,0,3.48,Mobile,Windows
+48406,2023-06-06 07:43:21,5,4,True,64,Non-Binary,Urban,Paid Ads,441,3,0,1.1,Mobile,Android
+75354,2023-06-06 11:25:04,2,3,True,45,Male,Rural,Email,518,27,0,1.06,Mobile,macOS
+84675,2023-06-07 18:15:55,5,6,True,24,Male,Suburban,Direct Search,516,21,2,3.23,Desktop,iOS
+85312,2023-06-08 01:17:59,5,3,True,22,Male,Urban,Paid Ads,568,4,1,1.28,Mobile,Linux
+75371,2023-06-09 16:20:25,4,2,True,20,Male,Rural,Email,900,2,1,2.79,Mobile,Linux
+63942,2023-06-10 10:55:01,2,6,True,58,Female,Suburban,Social Media,667,0,1,0.9,Tablet,Android
+31107,2023-06-11 01:36:51,5,5,True,27,Female,Suburban,Email,399,0,0,2.79,Desktop,macOS
+94212,2023-06-11 06:57:20,7,4,True,52,Non-Binary,Urban,Email,509,8,0,2.08,Desktop,Android
+33842,2023-06-11 07:19:43,0,3,True,23,Female,Urban,Email,491,2,3,3.21,Desktop,Linux
+89983,2023-06-11 09:29:25,9,4,True,43,Male,Urban,Social Media,700,0,1,3.94,Desktop,Linux
+42214,2023-06-11 14:13:18,5,7,False,22,Female,Suburban,Email,635,0,2,1.17,Mobile,Windows
+97197,2023-06-11 23:42:10,4,6,True,41,Non-Binary,Urban,Direct Search,562,0,1,0.92,Mobile,macOS
+77840,2023-06-12 07:27:57,4,5,True,53,Female,Rural,Direct Search,516,0,3,1.29,Desktop,iOS
+35274,2023-06-12 21:50:35,4,3,True,33,Male,Rural,Paid Ads,465,0,1,3.48,Desktop,Windows
+51993,2023-06-13 06:53:27,5,4,False,39,Female,Suburban,Email,669,1,0,2.13,Mobile,iOS
+68523,2023-06-13 07:50:38,3,6,True,26,Non-Binary,Rural,Direct Search,451,0,0,2.33,Mobile,macOS
+65270,2023-06-14 02:38:21,7,4,True,25,Non-Binary,Rural,Social Media,513,3,0,2.66,Desktop,Linux
+95371,2023-06-14 15:50:24,2,6,True,50,Female,Urban,Paid Ads,431,10,1,4.46,Mobile,Android
+59502,2023-06-14 18:18:13,2,8,True,25,Non-Binary,Rural,Social Media,474,0,1,3.13,Mobile,Linux
+36152,2023-06-15 09:10:18,6,5,False,31,Non-Binary,Suburban,Social Media,477,4,0,0.76,Mobile,iOS
+21052,2023-06-16 07:41:15,4,4,True,61,Female,Rural,Direct Search,633,0,1,4.05,Desktop,iOS
+71302,2023-06-17 05:05:53,7,3,True,59,Female,Suburban,Paid Ads,439,0,0,0.67,Mobile,macOS
+37906,2023-06-17 06:29:54,6,7,True,23,Female,Suburban,Direct Search,366,1,2,3.21,Tablet,Android
+55891,2023-06-17 15:32:27,3,6,True,23,Male,Urban,Direct Search,738,0,2,6.61,Tablet,macOS
+33203,2023-06-18 01:12:37,5,3,True,23,Non-Binary,Rural,Paid Ads,646,1,2,1.69,Tablet,macOS
+39764,2023-06-18 04:32:25,4,5,True,21,Male,Rural,Paid Ads,572,2,0,4.08,Mobile,Android
+82308,2023-06-18 12:22:12,3,3,False,33,Male,Urban,Email,737,0,0,5.22,Desktop,Windows
+50738,2023-06-19 06:31:55,5,3,True,27,Non-Binary,Rural,Direct Search,823,0,1,2.76,Desktop,iOS
+49021,2023-06-19 11:26:22,6,3,True,29,Female,Rural,Email,545,0,0,5.48,Mobile,Windows
+76272,2023-06-20 11:17:23,0,7,True,19,Male,Rural,Direct Search,718,0,1,2.99,Desktop,Android
+22134,2023-06-20 16:56:39,3,5,True,32,Non-Binary,Suburban,Direct Search,667,1,1,-0.07,Mobile,macOS
+25997,2023-06-20 21:58:31,6,6,True,37,Female,Suburban,Direct Search,506,1,0,3.87,Tablet,macOS
+83878,2023-06-21 00:52:13,4,6,True,44,Non-Binary,Urban,Social Media,579,2,0,4.28,Mobile,Android
+45050,2023-06-22 11:48:24,5,5,True,23,Non-Binary,Rural,Social Media,432,0,0,3.48,Tablet,Linux
+40142,2023-06-22 19:16:25,5,5,True,23,Female,Suburban,Email,615,1,0,5.76,Mobile,Android
+89285,2023-06-23 00:28:48,5,5,False,46,Female,Suburban,Email,567,0,1,2.69,Mobile,Android
+51504,2023-06-23 13:49:40,3,5,False,21,Male,Urban,Email,624,0,1,1.01,Tablet,Android
+86853,2023-06-23 20:10:03,6,3,True,56,Female,Suburban,Social Media,154,0,0,4.08,Mobile,Windows
+63251,2023-06-23 21:44:13,5,4,True,47,Non-Binary,Suburban,Paid Ads,474,0,1,0.68,Mobile,Windows
+56614,2023-06-24 15:10:09,7,5,True,20,Non-Binary,Rural,Email,148,0,0,3.03,Mobile,iOS
+77559,2023-06-24 16:34:01,6,8,True,39,Non-Binary,Suburban,Social Media,593,0,0,3.31,Desktop,macOS
+44176,2023-06-24 23:33:19,4,5,True,59,Male,Suburban,Email,565,1,0,1.23,Tablet,Windows
+30165,2023-06-25 07:33:14,4,7,True,29,Non-Binary,Rural,Email,523,0,0,3.05,Tablet,Windows
+13560,2023-06-25 09:52:43,3,4,True,46,Female,Urban,Email,522,4,0,1.38,Tablet,macOS
+31243,2023-06-25 12:24:57,4,6,True,27,Male,Suburban,Direct Search,292,0,0,0.5,Desktop,Android
+52477,2023-06-26 02:30:58,10,6,True,24,Female,Urban,Paid Ads,737,0,0,2.96,Desktop,Windows
+78740,2023-06-26 04:45:21,4,2,False,43,Non-Binary,Suburban,Paid Ads,438,0,0,0.56,Mobile,macOS
+15181,2023-06-27 02:20:25,6,3,True,47,Male,Rural,Direct Search,297,1,0,0.93,Mobile,macOS
+18819,2023-06-27 16:15:44,3,5,True,49,Non-Binary,Urban,Social Media,488,0,0,4.59,Tablet,Windows
+94416,2023-06-27 21:28:08,6,5,False,32,Female,Urban,Email,326,0,0,1.8,Mobile,Windows
+79140,2023-06-28 10:42:58,3,6,True,24,Female,Rural,Direct Search,673,0,0,4.59,Mobile,Windows
+41921,2023-06-28 17:20:37,7,4,False,46,Non-Binary,Suburban,Social Media,423,0,1,1.34,Desktop,Linux
+95172,2023-06-28 21:34:53,6,5,False,67,Male,Rural,Paid Ads,560,12,4,3.55,Desktop,iOS
+87582,2023-06-28 23:24:49,3,6,True,19,Male,Urban,Paid Ads,387,0,0,4.06,Desktop,Android
+54785,2023-06-30 03:50:07,3,5,True,18,Non-Binary,Rural,Email,530,1,1,2.41,Desktop,Linux
+88633,2023-06-30 05:38:18,5,4,False,29,Non-Binary,Suburban,Social Media,535,0,0,2.4,Mobile,Windows
+91941,2023-06-30 08:07:37,2,6,True,34,Female,Urban,Email,433,0,1,0.48,Desktop,macOS
+93725,2023-06-30 16:36:31,8,3,False,19,Female,Rural,Direct Search,566,0,0,3.4,Desktop,iOS
+55463,2023-06-30 18:14:39,4,5,False,34,Female,Urban,Social Media,177,0,0,3.46,Mobile,macOS
+50843,2023-07-01 11:31:01,10,5,True,18,Male,Rural,Social Media,259,1,1,4.92,Tablet,Windows
+19396,2023-07-01 13:28:21,4,2,True,18,Non-Binary,Rural,Social Media,434,0,0,4.12,Mobile,iOS
+82531,2023-07-01 20:24:10,7,6,False,29,Male,Suburban,Email,286,5,0,1.09,Desktop,Windows
+98692,2023-07-02 03:04:13,2,5,True,55,Female,Suburban,Email,466,0,0,3.06,Desktop,Linux
+60679,2023-07-02 20:32:49,3,6,True,31,Male,Suburban,Social Media,350,2,1,5.51,Tablet,Windows
+13511,2023-07-03 06:52:39,4,4,True,36,Female,Suburban,Email,284,0,0,4.95,Mobile,Linux
+21605,2023-07-03 14:34:30,7,5,True,26,Female,Urban,Paid Ads,412,8,0,3.49,Desktop,Android
+32957,2023-07-03 18:13:56,1,5,False,34,Female,Urban,Direct Search,547,0,1,3.86,Tablet,Windows
+39419,2023-07-04 06:50:02,1,6,True,29,Male,Urban,Email,479,0,1,0.92,Mobile,macOS
+22003,2023-07-04 21:21:00,4,8,False,28,Female,Urban,Direct Search,485,0,1,3.8,Tablet,Windows
+13467,2023-07-06 01:40:38,8,6,False,39,Male,Suburban,Email,489,0,2,3.23,Desktop,iOS
+11871,2023-07-06 02:01:59,5,6,False,21,Female,Urban,Direct Search,783,1,0,3.62,Desktop,iOS
+46720,2023-07-06 06:07:07,5,6,False,20,Female,Urban,Social Media,658,0,1,3.26,Desktop,macOS
+72729,2023-07-06 07:18:59,4,1,True,38,Non-Binary,Rural,Direct Search,594,0,0,2.93,Mobile,Windows
+48040,2023-07-06 21:25:56,4,8,False,27,Non-Binary,Rural,Email,432,0,0,0.68,Tablet,Linux
+18292,2023-07-07 20:59:35,6,7,True,29,Male,Rural,Email,733,0,0,1.27,Mobile,Linux
+77699,2023-07-08 01:03:09,6,6,False,45,Non-Binary,Suburban,Paid Ads,585,2,0,3.08,Mobile,Android
+29361,2023-07-08 15:57:07,6,5,True,29,Non-Binary,Urban,Direct Search,371,7,1,1.66,Mobile,Android
+98327,2023-07-09 11:25:39,8,4,False,40,Non-Binary,Rural,Paid Ads,328,0,0,3.61,Mobile,Android
+50133,2023-07-09 14:27:13,2,5,True,53,Male,Rural,Social Media,597,1,0,2.09,Mobile,Android
+46661,2023-07-09 20:06:15,2,5,True,36,Female,Suburban,Email,589,0,0,2.55,Tablet,Windows
+33418,2023-07-09 23:11:32,3,4,True,19,Female,Urban,Social Media,647,0,1,0.96,Desktop,iOS
+48386,2023-07-10 00:33:16,4,5,True,19,Female,Rural,Direct Search,551,3,0,3.17,Tablet,Windows
+51690,2023-07-10 04:40:25,4,6,True,31,Male,Suburban,Direct Search,680,0,2,3.0,Mobile,Android
+18804,2023-07-10 18:16:46,0,4,False,46,Female,Urban,Direct Search,295,0,1,3.11,Desktop,Linux
+91728,2023-07-10 20:04:19,3,7,False,24,Non-Binary,Suburban,Social Media,464,0,0,2.55,Tablet,Android
+54707,2023-07-10 21:50:27,8,3,False,49,Non-Binary,Rural,Direct Search,386,0,0,0.01,Mobile,Linux
+83255,2023-07-11 01:42:21,4,3,True,31,Male,Suburban,Direct Search,467,0,1,2.88,Mobile,Windows
+70133,2023-07-11 03:59:09,4,7,False,46,Female,Urban,Direct Search,428,0,1,5.24,Mobile,iOS
+87528,2023-07-11 06:00:19,4,6,True,37,Non-Binary,Rural,Paid Ads,272,0,0,3.73,Mobile,Windows
+52756,2023-07-11 07:59:06,5,5,True,25,Male,Urban,Social Media,435,1,0,2.8,Desktop,Windows
+68812,2023-07-11 08:16:55,4,4,True,47,Non-Binary,Urban,Direct Search,771,0,0,4.0,Tablet,Android
+84314,2023-07-11 14:07:10,1,4,True,49,Non-Binary,Rural,Email,539,0,0,3.67,Tablet,iOS
+91857,2023-07-11 21:34:49,2,4,False,43,Male,Rural,Social Media,439,2,0,4.26,Tablet,Linux
+31875,2023-07-11 23:10:47,6,6,True,30,Female,Suburban,Paid Ads,790,1,1,2.55,Desktop,macOS
+17557,2023-07-12 02:18:01,7,3,True,23,Female,Urban,Social Media,449,0,0,4.36,Tablet,Linux
+30165,2023-07-12 07:55:39,8,5,True,57,Non-Binary,Rural,Paid Ads,384,7,0,1.69,Desktop,Linux
+57449,2023-07-12 14:01:42,7,9,True,45,Male,Suburban,Paid Ads,481,0,1,2.78,Desktop,Linux
+23729,2023-07-13 09:01:36,6,5,True,39,Male,Suburban,Paid Ads,382,2,1,2.87,Tablet,Linux
+93966,2023-07-14 00:11:12,5,6,True,41,Female,Suburban,Direct Search,426,0,1,2.63,Tablet,iOS
+95552,2023-07-14 08:53:07,6,6,True,22,Male,Urban,Paid Ads,858,2,0,5.74,Tablet,Windows
+52613,2023-07-14 14:48:44,5,5,False,25,Male,Suburban,Direct Search,374,3,0,3.27,Mobile,iOS
+53233,2023-07-14 15:26:21,3,7,False,30,Female,Rural,Email,592,0,0,3.61,Desktop,Linux
+22180,2023-07-14 21:58:19,5,7,True,46,Female,Rural,Direct Search,337,0,2,2.67,Mobile,macOS
+72570,2023-07-15 00:31:20,0,3,False,29,Female,Suburban,Social Media,512,1,0,0.49,Tablet,Windows
+66111,2023-07-15 04:20:32,4,6,False,24,Male,Rural,Paid Ads,417,0,0,3.9,Mobile,macOS
+82614,2023-07-15 21:02:20,7,6,True,24,Male,Urban,Social Media,496,0,2,2.58,Desktop,Android
+92032,2023-07-16 06:08:01,5,4,False,42,Non-Binary,Suburban,Direct Search,585,0,0,2.27,Desktop,Linux
+84659,2023-07-16 07:15:02,8,4,True,47,Female,Urban,Paid Ads,598,0,0,4.27,Mobile,Windows
+57805,2023-07-17 20:20:50,12,5,True,43,Non-Binary,Urban,Social Media,419,0,0,0.65,Tablet,Linux
+49335,2023-07-17 22:24:53,3,6,True,18,Male,Rural,Email,482,0,0,2.01,Mobile,iOS
+41739,2023-07-18 05:12:29,6,7,False,32,Female,Suburban,Social Media,224,0,0,1.11,Mobile,macOS
+62547,2023-07-18 21:04:21,6,4,True,19,Non-Binary,Suburban,Direct Search,341,0,0,1.51,Mobile,Linux
+76439,2023-07-19 03:28:13,6,6,True,20,Male,Urban,Direct Search,555,0,1,3.65,Tablet,Linux
+17426,2023-07-19 05:51:45,8,4,False,18,Non-Binary,Suburban,Paid Ads,685,30,0,3.8,Desktop,iOS
+25919,2023-07-19 06:38:37,8,7,True,18,Female,Rural,Paid Ads,579,0,0,0.89,Desktop,iOS
+87799,2023-07-19 06:40:02,5,6,False,23,Male,Urban,Paid Ads,411,2,1,0.3,Mobile,Windows
+28983,2023-07-20 02:17:05,4,4,True,35,Male,Urban,Email,251,0,0,3.85,Desktop,iOS
+90471,2023-07-20 07:19:09,6,5,True,25,Non-Binary,Urban,Paid Ads,440,0,1,3.45,Tablet,macOS
+34993,2023-07-20 18:39:03,10,5,False,35,Female,Suburban,Social Media,585,0,0,5.47,Mobile,Android
+76576,2023-07-20 22:58:03,6,5,False,25,Non-Binary,Suburban,Paid Ads,722,0,0,1.01,Desktop,iOS
+92119,2023-07-21 03:54:44,4,4,True,29,Male,Rural,Direct Search,599,1,0,0.46,Mobile,Windows
+47285,2023-07-21 08:04:57,3,6,False,26,Non-Binary,Rural,Direct Search,710,1,1,3.55,Desktop,Linux
+22579,2023-07-22 03:06:04,5,7,True,33,Non-Binary,Rural,Paid Ads,386,1,1,4.4,Desktop,Windows
+73360,2023-07-22 08:50:02,6,4,False,18,Male,Rural,Social Media,586,0,0,1.1,Tablet,Windows
+57993,2023-07-23 14:17:46,5,8,True,40,Male,Urban,Email,355,5,1,3.04,Desktop,iOS
+32036,2023-07-23 20:57:00,4,3,False,20,Non-Binary,Suburban,Direct Search,632,0,0,2.64,Tablet,Android
+43394,2023-07-24 03:33:24,5,6,True,38,Non-Binary,Rural,Email,785,0,0,4.63,Tablet,macOS
+35374,2023-07-24 06:37:59,9,3,True,34,Female,Rural,Email,471,0,1,1.07,Tablet,Android
+20194,2023-07-24 12:01:49,4,4,True,30,Non-Binary,Suburban,Social Media,626,23,0,2.97,Tablet,iOS
+90748,2023-07-24 13:30:13,0,8,True,32,Male,Rural,Email,281,0,0,1.47,Desktop,Android
+37004,2023-07-25 04:10:02,6,6,True,26,Non-Binary,Suburban,Social Media,386,0,1,2.87,Tablet,Android
+30441,2023-07-25 10:02:32,5,6,False,29,Female,Suburban,Social Media,721,0,0,0.46,Tablet,Windows
+70565,2023-07-25 22:26:36,2,8,True,47,Female,Suburban,Email,449,3,0,2.92,Tablet,Android
+44009,2023-07-26 06:29:31,6,5,True,28,Male,Urban,Social Media,420,2,0,1.81,Desktop,Android
+34404,2023-07-26 09:23:36,2,6,True,20,Non-Binary,Urban,Paid Ads,682,2,0,4.75,Desktop,Windows
+61714,2023-07-26 13:58:34,3,4,True,55,Non-Binary,Rural,Social Media,443,1,0,2.9,Tablet,iOS
+17228,2023-07-26 16:03:37,7,7,False,35,Male,Rural,Direct Search,764,0,0,4.94,Desktop,iOS
+89224,2023-07-26 21:09:16,7,3,False,27,Female,Urban,Email,441,0,0,2.51,Mobile,Linux
+44202,2023-07-27 04:22:28,10,7,True,30,Non-Binary,Urban,Paid Ads,536,27,0,2.26,Desktop,Linux
+41075,2023-07-27 08:10:10,5,3,True,42,Non-Binary,Urban,Social Media,505,0,1,3.81,Desktop,iOS
+84253,2023-07-27 08:45:49,6,5,True,63,Female,Suburban,Paid Ads,658,0,0,1.83,Tablet,Linux
+70935,2023-07-27 10:58:59,5,6,True,45,Non-Binary,Urban,Social Media,666,3,0,1.14,Tablet,Windows
+84890,2023-07-28 12:30:43,3,3,False,25,Female,Urban,Direct Search,182,0,0,3.67,Desktop,macOS
+22230,2023-07-28 18:38:57,7,8,False,31,Female,Urban,Email,458,0,1,4.47,Mobile,Linux
+54465,2023-07-28 19:22:00,2,4,True,19,Male,Urban,Social Media,455,0,1,0.19,Tablet,Android
+92457,2023-07-28 23:44:38,3,5,True,61,Female,Urban,Direct Search,438,0,0,4.19,Mobile,macOS
+74433,2023-07-29 00:51:57,1,5,True,25,Male,Rural,Social Media,683,0,0,3.49,Tablet,iOS
+48464,2023-07-29 01:39:25,4,5,False,28,Male,Urban,Social Media,441,0,0,1.63,Tablet,Android
+47028,2023-07-29 15:06:47,5,5,True,18,Female,Suburban,Paid Ads,615,1,0,2.77,Tablet,Windows
+88778,2023-07-29 16:34:30,4,5,True,33,Male,Suburban,Email,858,4,0,4.53,Tablet,Linux
+11924,2023-07-30 07:22:43,5,3,False,24,Male,Suburban,Email,531,0,1,3.55,Desktop,Linux
+56947,2023-08-01 02:17:18,4,3,True,21,Non-Binary,Rural,Email,733,0,0,2.98,Mobile,Android
+40281,2023-08-01 04:10:51,8,5,True,63,Non-Binary,Rural,Email,438,6,0,1.37,Desktop,Linux
+30989,2023-08-02 00:50:11,3,3,True,22,Female,Rural,Direct Search,149,19,2,4.44,Desktop,Windows
+94631,2023-08-02 12:39:11,6,6,True,35,Non-Binary,Urban,Paid Ads,526,0,1,0.91,Mobile,iOS
+63752,2023-08-04 08:02:27,4,5,False,19,Male,Rural,Paid Ads,347,0,1,2.31,Desktop,Linux
+48214,2023-08-04 20:25:52,9,4,True,51,Male,Urban,Direct Search,384,0,0,4.15,Mobile,Linux
+48870,2023-08-05 12:37:51,8,5,True,45,Male,Rural,Direct Search,426,2,0,3.3,Desktop,Linux
+19630,2023-08-05 16:05:18,7,5,True,19,Non-Binary,Rural,Social Media,523,0,1,3.9,Tablet,Linux
+66526,2023-08-05 18:25:53,6,5,True,24,Male,Suburban,Paid Ads,698,5,1,4.85,Tablet,Windows
+43538,2023-08-06 04:56:35,2,7,True,33,Female,Suburban,Email,361,0,1,1.73,Desktop,Windows
+15896,2023-08-06 10:23:14,2,3,False,26,Non-Binary,Rural,Social Media,585,0,0,3.38,Mobile,Linux
+75911,2023-08-06 13:36:58,4,5,False,40,Male,Urban,Paid Ads,413,0,1,2.03,Mobile,Linux
+11337,2023-08-06 20:24:01,5,7,True,22,Female,Suburban,Direct Search,653,15,1,2.16,Mobile,Android
+80399,2023-08-07 09:01:34,1,8,True,23,Male,Rural,Social Media,450,1,0,3.35,Mobile,Windows
+58682,2023-08-07 13:34:18,10,5,False,28,Male,Urban,Social Media,632,22,0,4.4,Desktop,Windows
+60053,2023-08-09 09:52:35,1,5,True,18,Female,Suburban,Paid Ads,521,0,0,3.98,Desktop,iOS
+96339,2023-08-09 15:00:46,7,5,True,38,Female,Suburban,Email,400,5,0,3.19,Desktop,macOS
+15410,2023-08-09 19:26:37,8,5,True,23,Non-Binary,Rural,Paid Ads,508,0,0,4.74,Tablet,Linux
+83330,2023-08-10 12:43:02,4,3,True,24,Male,Urban,Email,476,0,2,2.64,Mobile,iOS
+56774,2023-08-10 17:49:47,4,7,True,25,Male,Suburban,Direct Search,666,2,1,4.34,Mobile,Android
+20716,2023-08-11 04:39:24,1,4,False,23,Male,Urban,Social Media,408,0,0,2.41,Tablet,Windows
+44488,2023-08-11 14:23:22,6,3,False,61,Female,Urban,Social Media,497,0,1,4.52,Mobile,Windows
+33314,2023-08-11 21:33:30,2,4,True,47,Non-Binary,Rural,Direct Search,412,0,1,4.27,Mobile,Android
+86578,2023-08-11 23:03:44,3,5,True,36,Female,Suburban,Email,332,2,0,3.28,Desktop,Windows
+89249,2023-08-12 00:20:32,10,7,True,23,Non-Binary,Rural,Direct Search,510,0,1,5.35,Mobile,iOS
+89403,2023-08-12 19:56:44,3,7,True,21,Male,Urban,Social Media,539,0,2,1.08,Mobile,iOS
+65153,2023-08-13 01:43:13,6,4,True,29,Male,Urban,Paid Ads,733,0,1,3.26,Desktop,Android
+57456,2023-08-13 10:11:33,6,8,True,18,Male,Rural,Email,434,0,0,-0.89,Mobile,iOS
+85997,2023-08-13 18:20:34,4,6,False,27,Male,Urban,Direct Search,438,1,0,3.58,Desktop,macOS
+12173,2023-08-14 18:25:18,6,3,True,37,Male,Urban,Direct Search,574,0,0,4.22,Mobile,Android
+80744,2023-08-14 20:25:09,9,4,True,51,Non-Binary,Rural,Paid Ads,517,5,0,4.32,Desktop,Android
+46020,2023-08-14 21:47:28,12,5,True,38,Male,Urban,Email,266,0,2,3.84,Tablet,Linux
+37661,2023-08-15 05:02:17,2,4,True,36,Male,Suburban,Paid Ads,499,0,0,1.72,Mobile,Linux
+56778,2023-08-15 06:39:11,6,5,True,54,Male,Urban,Paid Ads,286,4,1,5.03,Desktop,macOS
+95016,2023-08-15 18:59:19,4,5,True,46,Non-Binary,Rural,Social Media,731,20,0,1.71,Tablet,Android
+11614,2023-08-15 23:25:07,7,6,True,31,Female,Suburban,Paid Ads,528,2,2,2.93,Desktop,iOS
+45459,2023-08-16 09:25:32,6,6,True,25,Non-Binary,Suburban,Email,662,0,0,2.91,Tablet,macOS
+18266,2023-08-16 15:07:25,9,4,False,20,Female,Urban,Email,738,0,1,5.0,Mobile,Android
+69788,2023-08-16 19:19:28,3,8,True,33,Female,Suburban,Paid Ads,535,0,0,3.52,Mobile,macOS
+94554,2023-08-16 22:00:31,7,4,True,50,Male,Urban,Direct Search,442,6,1,4.53,Mobile,Android
+67368,2023-08-17 02:17:50,6,5,True,41,Male,Urban,Paid Ads,403,2,1,2.2,Tablet,Android
+35247,2023-08-17 10:21:56,4,5,True,29,Non-Binary,Suburban,Social Media,440,0,1,0.3,Mobile,Android
+89464,2023-08-18 00:03:59,4,5,True,68,Non-Binary,Suburban,Paid Ads,506,0,0,1.24,Desktop,iOS
+75599,2023-08-18 01:50:42,6,4,True,46,Male,Rural,Paid Ads,778,2,1,3.86,Mobile,macOS
+60859,2023-08-18 21:06:09,7,5,True,36,Male,Suburban,Email,427,0,0,1.47,Desktop,Android
+81592,2023-08-20 01:08:02,8,5,True,21,Non-Binary,Rural,Paid Ads,702,1,0,2.68,Tablet,Linux
+90782,2023-08-20 02:19:31,5,7,False,28,Male,Rural,Paid Ads,502,0,0,0.03,Mobile,Android
+48429,2023-08-20 03:24:12,3,5,True,42,Male,Urban,Email,535,1,1,2.08,Tablet,Windows
+75112,2023-08-20 09:25:58,9,3,True,44,Female,Urban,Paid Ads,467,3,1,2.79,Tablet,Android
+69864,2023-08-20 12:10:27,0,2,True,59,Male,Rural,Direct Search,408,0,0,1.48,Mobile,Windows
+27340,2023-08-21 12:26:24,1,7,False,33,Non-Binary,Urban,Direct Search,544,0,0,-1.0,Desktop,iOS
+46076,2023-08-21 14:16:59,9,4,True,28,Male,Rural,Email,511,0,1,4.1,Tablet,macOS
+91841,2023-08-21 21:05:27,6,4,True,41,Non-Binary,Urban,Social Media,674,0,0,2.88,Tablet,macOS
+75483,2023-08-22 06:15:55,9,3,True,47,Non-Binary,Urban,Email,658,0,0,4.56,Tablet,macOS
+79434,2023-08-22 10:10:11,3,5,True,28,Non-Binary,Urban,Social Media,197,0,0,4.71,Desktop,iOS
+41010,2023-08-22 22:27:20,6,4,False,52,Male,Urban,Social Media,585,1,1,3.8,Mobile,Windows
+72782,2023-08-23 02:51:54,11,6,True,39,Male,Suburban,Paid Ads,508,6,2,3.34,Desktop,iOS
+76589,2023-08-23 05:48:28,7,3,True,33,Non-Binary,Rural,Direct Search,362,0,1,3.53,Tablet,Android
+18752,2023-08-23 15:18:55,5,3,True,19,Male,Suburban,Paid Ads,620,0,0,1.43,Mobile,Windows
+67600,2023-08-23 23:49:35,4,6,False,36,Female,Rural,Direct Search,340,1,1,3.34,Tablet,Android
+96107,2023-08-24 04:36:09,2,5,True,21,Male,Urban,Direct Search,554,1,0,4.73,Desktop,Android
+75940,2023-08-24 05:30:00,6,5,False,34,Non-Binary,Suburban,Social Media,444,0,1,2.85,Mobile,macOS
+22843,2023-08-24 07:59:40,4,3,True,36,Male,Suburban,Paid Ads,470,1,0,2.99,Tablet,Android
+47437,2023-08-25 02:01:41,4,6,True,20,Male,Urban,Social Media,647,0,0,4.02,Mobile,Linux
+55560,2023-08-25 04:21:55,3,5,True,37,Non-Binary,Suburban,Email,379,0,1,1.48,Desktop,iOS
+24881,2023-08-25 05:56:09,3,4,True,57,Male,Rural,Social Media,308,0,1,4.69,Desktop,Linux
+58208,2023-08-25 21:14:33,2,7,True,24,Male,Rural,Direct Search,499,3,0,2.99,Desktop,Android
+13404,2023-08-28 05:48:35,4,6,True,28,Male,Rural,Social Media,470,0,1,2.96,Mobile,Linux
+83364,2023-08-28 13:37:33,5,5,False,24,Male,Rural,Direct Search,542,0,0,3.16,Mobile,Android
+16037,2023-08-29 12:45:12,3,5,False,38,Female,Urban,Social Media,458,0,3,2.28,Tablet,Windows
+81713,2023-08-29 13:17:18,4,4,True,34,Female,Urban,Paid Ads,432,2,2,1.56,Desktop,Windows
+15245,2023-08-30 10:15:01,3,8,True,21,Non-Binary,Urban,Paid Ads,461,0,0,3.69,Desktop,Android
+33306,2023-08-30 11:28:57,5,4,False,48,Non-Binary,Rural,Paid Ads,517,9,1,3.23,Desktop,iOS
+44897,2023-08-30 14:38:37,2,5,True,40,Female,Suburban,Email,445,1,1,5.46,Desktop,Windows
+90704,2023-08-30 20:27:12,10,6,True,24,Female,Suburban,Social Media,413,1,0,4.06,Desktop,Linux
+23195,2023-08-31 10:57:15,4,5,True,28,Male,Urban,Social Media,553,0,0,4.31,Mobile,macOS
+16448,2023-08-31 23:22:27,4,3,True,36,Male,Rural,Direct Search,606,0,0,3.23,Tablet,Android
+21326,2023-08-31 23:32:14,7,5,False,19,Female,Urban,Email,397,4,0,2.9,Tablet,macOS
+30381,2023-09-01 03:33:23,6,6,True,31,Female,Rural,Direct Search,200,0,0,2.93,Mobile,macOS
+94662,2023-09-01 06:39:08,7,6,True,40,Male,Suburban,Direct Search,562,43,1,3.21,Desktop,Windows
+23657,2023-09-01 09:57:00,4,7,True,30,Female,Rural,Email,620,0,1,4.76,Desktop,Windows
+22372,2023-09-01 13:53:18,8,6,False,20,Non-Binary,Rural,Email,710,1,0,2.77,Desktop,Linux
+53449,2023-09-01 15:15:07,3,5,True,18,Non-Binary,Urban,Email,340,0,1,6.53,Tablet,iOS
+46736,2023-09-01 20:56:33,7,3,False,46,Female,Rural,Paid Ads,625,0,0,4.41,Mobile,Windows
+95125,2023-09-02 04:12:40,5,4,True,29,Female,Rural,Email,676,1,0,-0.53,Mobile,iOS
+35819,2023-09-02 05:21:24,4,7,True,38,Non-Binary,Rural,Social Media,697,3,1,3.51,Mobile,Windows
+34675,2023-09-02 12:23:28,6,4,True,19,Non-Binary,Suburban,Social Media,551,1,1,3.54,Mobile,Android
+45235,2023-09-02 13:50:48,6,4,True,24,Male,Rural,Social Media,261,0,2,4.06,Desktop,macOS
+12679,2023-09-03 22:02:10,4,6,True,32,Non-Binary,Rural,Social Media,504,0,1,0.71,Tablet,Linux
+13922,2023-09-04 06:11:14,6,6,True,21,Non-Binary,Suburban,Direct Search,625,0,1,5.78,Mobile,Windows
+12562,2023-09-04 15:54:03,9,4,False,48,Female,Rural,Social Media,415,0,1,4.36,Mobile,macOS
+69281,2023-09-05 03:15:51,3,4,True,29,Female,Suburban,Email,261,0,1,0.26,Desktop,Windows
+22232,2023-09-05 18:30:30,5,7,True,23,Male,Urban,Direct Search,655,0,0,3.12,Desktop,macOS
+63484,2023-09-05 22:16:03,2,2,True,19,Male,Urban,Paid Ads,405,0,1,0.94,Mobile,Android
+72570,2023-09-06 23:34:11,4,5,True,30,Non-Binary,Urban,Email,860,0,0,0.31,Desktop,iOS
+85751,2023-09-07 06:07:43,10,6,True,34,Non-Binary,Rural,Direct Search,614,11,1,3.61,Desktop,iOS
+66894,2023-09-08 00:15:34,9,5,True,24,Male,Rural,Paid Ads,357,0,0,3.73,Tablet,Linux
+94466,2023-09-08 16:50:05,3,8,True,44,Non-Binary,Rural,Paid Ads,428,7,1,2.09,Desktop,iOS
+46950,2023-09-08 20:47:35,3,5,True,28,Male,Suburban,Paid Ads,531,4,0,2.96,Desktop,macOS
+37045,2023-09-09 04:13:02,5,7,True,30,Non-Binary,Suburban,Social Media,457,2,0,2.35,Tablet,Windows
+45428,2023-09-09 16:28:00,6,4,True,40,Non-Binary,Rural,Direct Search,649,0,1,2.86,Desktop,macOS
+25708,2023-09-09 22:09:23,7,6,True,34,Non-Binary,Suburban,Direct Search,433,0,0,4.9,Mobile,Android
+81299,2023-09-09 23:11:21,6,6,True,35,Non-Binary,Suburban,Direct Search,239,0,2,4.13,Desktop,macOS
+77889,2023-09-10 02:11:38,6,4,True,35,Male,Suburban,Social Media,735,6,0,2.85,Mobile,Windows
+93971,2023-09-10 17:00:36,8,8,True,43,Female,Urban,Paid Ads,738,0,0,4.72,Mobile,Windows
+52439,2023-09-10 20:42:15,5,5,True,25,Male,Urban,Direct Search,302,0,0,5.88,Desktop,macOS
+14039,2023-09-10 21:20:10,8,4,True,31,Female,Rural,Paid Ads,679,0,0,2.28,Desktop,Android
+89860,2023-09-10 21:50:36,0,2,False,36,Non-Binary,Suburban,Direct Search,357,0,1,3.41,Desktop,macOS
+84305,2023-09-11 03:58:41,8,4,True,31,Male,Urban,Direct Search,463,0,0,5.97,Tablet,Windows
+46444,2023-09-11 06:44:54,3,5,False,19,Female,Rural,Direct Search,626,0,0,2.06,Mobile,Windows
+97986,2023-09-11 19:54:31,7,5,True,23,Female,Suburban,Email,445,0,0,4.17,Tablet,Windows
+11291,2023-09-12 02:26:38,6,6,True,57,Non-Binary,Suburban,Direct Search,584,0,0,3.2,Mobile,Windows
+92088,2023-09-12 06:26:44,2,2,True,61,Female,Urban,Social Media,550,9,1,3.44,Tablet,Linux
+85577,2023-09-12 21:47:59,3,4,True,45,Male,Urban,Social Media,344,0,2,3.5,Desktop,Linux
+99099,2023-09-12 22:14:52,5,7,False,28,Male,Suburban,Social Media,635,0,0,4.68,Tablet,Windows
+97069,2023-09-13 01:15:15,4,0,True,18,Non-Binary,Rural,Email,504,2,0,3.33,Mobile,Android
+81208,2023-09-13 03:37:59,5,6,True,42,Female,Urban,Email,460,0,0,2.07,Mobile,macOS
+38647,2023-09-13 08:00:15,2,4,True,25,Female,Urban,Email,355,0,0,1.09,Desktop,macOS
+86478,2023-09-13 11:13:46,4,9,True,28,Female,Suburban,Direct Search,513,0,0,2.91,Tablet,iOS
+16004,2023-09-14 03:43:31,4,4,True,40,Non-Binary,Rural,Email,681,1,3,0.74,Desktop,iOS
+85955,2023-09-14 19:15:28,2,5,True,58,Female,Rural,Direct Search,513,2,1,1.58,Desktop,Linux
+92865,2023-09-14 23:15:19,5,5,False,50,Non-Binary,Urban,Direct Search,439,0,2,2.23,Mobile,macOS
+38960,2023-09-14 23:29:36,9,3,True,20,Female,Urban,Social Media,673,1,1,4.52,Mobile,Android
+49512,2023-09-14 23:36:30,5,7,True,42,Male,Urban,Email,490,8,0,3.38,Desktop,iOS
+64180,2023-09-15 05:22:36,1,8,False,30,Female,Urban,Direct Search,735,1,0,2.28,Desktop,Windows
+72551,2023-09-15 13:59:41,5,7,False,64,Male,Rural,Direct Search,394,0,1,-0.07,Desktop,Android
+70857,2023-09-16 01:34:40,9,8,False,51,Non-Binary,Suburban,Direct Search,275,0,1,1.92,Tablet,macOS
+56617,2023-09-16 03:11:08,4,3,True,22,Non-Binary,Urban,Email,538,21,0,2.89,Tablet,macOS
+34455,2023-09-16 12:52:52,5,4,False,44,Male,Urban,Direct Search,402,0,1,2.31,Mobile,iOS
+80608,2023-09-16 16:01:46,3,6,True,37,Female,Urban,Paid Ads,366,0,0,4.89,Mobile,Windows
+90041,2023-09-16 23:42:38,2,4,True,38,Female,Rural,Social Media,550,1,0,4.96,Tablet,iOS
+96293,2023-09-17 09:16:59,6,5,True,35,Non-Binary,Urban,Direct Search,312,3,0,2.6,Tablet,macOS
+28231,2023-09-17 13:21:21,2,5,True,36,Male,Rural,Direct Search,90,1,1,1.53,Tablet,Windows
+67625,2023-09-18 20:48:58,2,8,True,53,Female,Rural,Social Media,521,0,0,2.81,Tablet,Android
+19500,2023-09-18 21:51:15,5,6,False,19,Male,Rural,Direct Search,370,6,0,4.25,Desktop,Windows
+62237,2023-09-18 23:14:57,4,4,True,38,Non-Binary,Suburban,Social Media,397,0,0,-1.25,Desktop,macOS
+60973,2023-09-18 23:43:04,4,5,False,41,Female,Urban,Email,551,0,1,2.09,Mobile,macOS
+38954,2023-09-19 04:20:18,5,5,False,34,Male,Urban,Social Media,550,15,1,1.68,Mobile,iOS
+81070,2023-09-19 18:45:17,5,4,True,26,Male,Suburban,Social Media,100,0,3,3.1,Tablet,Linux
+35353,2023-09-20 18:40:14,6,4,True,24,Non-Binary,Urban,Direct Search,515,0,0,4.01,Desktop,iOS
+67525,2023-09-20 20:09:30,8,6,True,32,Male,Rural,Paid Ads,627,0,0,2.19,Desktop,iOS
+81973,2023-09-21 23:08:11,4,4,True,40,Female,Suburban,Direct Search,650,1,1,2.91,Desktop,Android
+88696,2023-09-22 00:15:23,6,2,True,56,Male,Suburban,Social Media,679,0,1,0.15,Mobile,Windows
+39459,2023-09-22 05:05:23,7,2,True,20,Male,Urban,Direct Search,355,0,0,2.33,Mobile,iOS
+22120,2023-09-22 17:03:01,5,6,True,46,Non-Binary,Suburban,Email,481,0,0,3.89,Mobile,Windows
+37822,2023-09-22 17:10:44,6,5,True,48,Non-Binary,Urban,Paid Ads,630,1,0,2.14,Desktop,Android
+37784,2023-09-23 18:01:54,4,7,True,19,Female,Urban,Social Media,762,0,0,2.09,Tablet,macOS
+30647,2023-09-23 18:08:42,4,5,True,20,Female,Suburban,Social Media,643,0,0,3.25,Desktop,Linux
+89668,2023-09-24 01:47:15,8,2,True,30,Non-Binary,Suburban,Direct Search,709,14,0,1.61,Mobile,macOS
+24707,2023-09-24 06:39:12,5,4,True,25,Male,Rural,Paid Ads,546,0,0,3.36,Tablet,macOS
+79583,2023-09-24 17:18:47,2,6,True,22,Male,Urban,Paid Ads,557,11,0,4.35,Mobile,Windows
+72079,2023-09-25 08:24:23,3,5,True,24,Non-Binary,Rural,Email,541,2,0,1.38,Mobile,Windows
+47734,2023-09-26 07:54:13,0,5,False,27,Female,Urban,Paid Ads,323,0,0,4.38,Mobile,macOS
+71046,2023-09-26 18:30:43,3,9,True,29,Male,Suburban,Email,409,1,0,4.79,Tablet,Android
+93054,2023-09-27 22:35:36,6,6,True,60,Female,Urban,Paid Ads,619,1,2,4.41,Tablet,Linux
+46209,2023-09-28 14:53:23,6,5,False,23,Female,Rural,Paid Ads,581,2,0,1.58,Mobile,Linux
+67191,2023-09-28 16:01:54,9,6,False,50,Non-Binary,Rural,Paid Ads,448,3,0,3.86,Desktop,iOS
+99141,2023-09-29 01:02:56,6,7,False,26,Non-Binary,Suburban,Social Media,642,4,0,2.84,Tablet,iOS
+32898,2023-09-29 01:08:05,3,5,True,45,Non-Binary,Urban,Email,646,0,0,5.0,Tablet,Linux
+36885,2023-09-29 18:00:20,3,4,True,27,Female,Suburban,Direct Search,624,0,0,4.8,Desktop,iOS
+22910,2023-09-30 03:18:42,7,7,True,32,Non-Binary,Urban,Direct Search,557,0,1,4.52,Mobile,Windows
+35136,2023-09-30 10:47:40,9,4,True,20,Female,Urban,Direct Search,443,0,1,3.99,Desktop,iOS
+29340,2023-10-01 06:47:41,6,5,False,44,Female,Suburban,Paid Ads,429,0,0,4.17,Tablet,iOS
+91757,2023-10-02 09:19:53,5,0,True,23,Non-Binary,Urban,Social Media,613,0,0,2.34,Tablet,Windows
+79069,2023-10-02 18:37:39,5,6,True,30,Female,Suburban,Social Media,613,0,0,1.44,Mobile,Windows
+99236,2023-10-03 01:29:25,3,6,False,24,Male,Rural,Paid Ads,704,0,0,3.77,Mobile,Linux
+99688,2023-10-03 05:42:04,1,7,True,41,Male,Rural,Direct Search,449,0,0,4.14,Desktop,iOS
+89483,2023-10-03 13:13:36,9,3,True,30,Non-Binary,Rural,Email,337,0,0,3.36,Mobile,Windows
+57663,2023-10-04 07:20:33,8,7,True,26,Male,Rural,Social Media,758,0,0,4.15,Tablet,Windows
+95110,2023-10-04 14:10:48,8,4,True,36,Female,Rural,Direct Search,702,0,1,1.48,Mobile,iOS
+35036,2023-10-04 20:16:05,5,5,True,39,Female,Suburban,Email,595,0,0,4.05,Mobile,macOS
+75276,2023-10-05 06:20:41,4,7,False,34,Female,Suburban,Direct Search,586,2,0,4.16,Mobile,iOS
+49228,2023-10-05 23:03:55,4,4,True,31,Non-Binary,Suburban,Email,401,0,1,3.81,Mobile,Windows
+50831,2023-10-06 00:49:52,4,7,True,19,Non-Binary,Rural,Direct Search,554,0,1,0.85,Mobile,Linux
+55486,2023-10-06 03:32:26,4,6,False,32,Female,Rural,Paid Ads,389,0,0,5.59,Mobile,iOS
+66818,2023-10-06 09:36:45,1,6,True,21,Male,Urban,Paid Ads,353,2,2,3.02,Tablet,macOS
+69530,2023-10-06 21:01:50,11,4,True,19,Male,Suburban,Social Media,502,0,1,4.94,Tablet,iOS
+28728,2023-10-07 02:13:43,7,3,True,46,Non-Binary,Suburban,Paid Ads,289,0,0,2.81,Desktop,Linux
+66448,2023-10-07 03:38:03,11,8,True,58,Non-Binary,Urban,Email,570,0,1,0.58,Tablet,iOS
+76297,2023-10-07 04:22:18,1,4,True,63,Female,Urban,Paid Ads,512,0,1,1.73,Tablet,Windows
+69855,2023-10-08 00:23:06,5,6,False,30,Male,Suburban,Paid Ads,536,0,1,3.86,Mobile,Android
+56783,2023-10-08 06:27:45,6,7,True,28,Female,Rural,Paid Ads,375,0,0,2.86,Mobile,Windows
+46361,2023-10-08 11:41:32,3,3,True,28,Male,Urban,Direct Search,414,0,0,3.04,Desktop,Android
+81007,2023-10-08 12:47:13,4,7,True,32,Non-Binary,Urban,Email,595,5,0,4.55,Tablet,Linux
+70155,2023-10-08 14:03:51,4,5,False,19,Non-Binary,Rural,Direct Search,354,3,1,0.83,Tablet,macOS
+49041,2023-10-08 14:39:08,5,5,True,34,Male,Suburban,Direct Search,516,0,0,3.17,Mobile,iOS
+21100,2023-10-08 15:12:36,7,7,True,25,Non-Binary,Suburban,Paid Ads,627,1,1,2.22,Tablet,Android
+17008,2023-10-08 18:08:29,4,6,False,26,Male,Rural,Paid Ads,385,0,0,2.52,Tablet,macOS
+52914,2023-10-08 18:37:06,4,6,True,58,Female,Rural,Social Media,446,0,0,1.07,Desktop,macOS
+52512,2023-10-09 00:03:42,4,6,True,21,Male,Suburban,Paid Ads,393,0,1,4.64,Tablet,macOS
+57354,2023-10-09 09:56:33,5,5,False,32,Non-Binary,Urban,Paid Ads,483,0,0,4.09,Mobile,Windows
+52729,2023-10-09 12:57:31,4,4,False,23,Female,Rural,Email,495,0,0,3.34,Mobile,Linux
+54259,2023-10-10 06:15:43,3,3,True,45,Non-Binary,Suburban,Paid Ads,589,1,1,3.9,Mobile,Android
+50642,2023-10-10 12:06:43,3,7,False,29,Female,Rural,Social Media,355,0,0,4.21,Desktop,Windows
+37117,2023-10-10 14:48:16,0,6,True,21,Female,Suburban,Paid Ads,393,4,1,4.44,Mobile,Windows
+64429,2023-10-11 03:50:07,8,4,True,46,Female,Suburban,Direct Search,610,1,1,3.04,Tablet,Linux
+93349,2023-10-11 05:43:13,4,2,True,36,Non-Binary,Rural,Social Media,574,28,0,3.67,Mobile,Linux
+64462,2023-10-11 13:18:26,9,7,True,22,Female,Urban,Direct Search,578,0,2,2.49,Mobile,macOS
+86745,2023-10-11 13:21:12,4,4,False,30,Female,Rural,Email,602,8,1,1.74,Desktop,Linux
+54069,2023-10-11 15:54:55,7,4,False,20,Male,Urban,Paid Ads,501,0,0,6.1,Mobile,Linux
+21465,2023-10-11 16:09:18,5,5,True,18,Male,Urban,Direct Search,647,0,1,3.73,Desktop,macOS
+63006,2023-10-12 04:34:17,1,5,True,31,Female,Urban,Direct Search,502,8,0,1.75,Tablet,Android
+98870,2023-10-12 05:21:08,7,6,True,48,Male,Urban,Paid Ads,306,14,0,2.33,Mobile,Android
+37724,2023-10-12 17:05:51,2,7,True,28,Female,Suburban,Paid Ads,604,0,1,5.46,Tablet,Linux
+55790,2023-10-12 20:11:00,7,5,False,48,Female,Rural,Direct Search,244,1,0,3.33,Tablet,Android
+26298,2023-10-13 00:20:30,4,5,False,35,Male,Rural,Email,619,0,0,6.61,Tablet,Linux
+26151,2023-10-13 01:12:50,7,6,True,30,Male,Rural,Direct Search,689,2,1,3.62,Desktop,iOS
+14930,2023-10-13 02:26:33,4,5,True,25,Female,Urban,Paid Ads,559,1,0,2.59,Tablet,Windows
+20100,2023-10-13 10:23:32,5,3,False,26,Female,Urban,Paid Ads,549,3,0,1.68,Tablet,Linux
+91776,2023-10-14 04:22:04,4,5,False,23,Non-Binary,Suburban,Social Media,614,0,1,3.28,Desktop,macOS
+57042,2023-10-14 08:30:38,3,5,False,39,Non-Binary,Suburban,Social Media,557,0,1,5.11,Mobile,Linux
+82279,2023-10-14 11:37:55,4,7,True,49,Female,Rural,Paid Ads,314,0,0,6.17,Desktop,iOS
+26363,2023-10-14 22:55:32,9,5,True,30,Non-Binary,Urban,Email,548,0,0,4.42,Desktop,Windows
+42830,2023-10-15 12:00:17,4,5,True,22,Non-Binary,Suburban,Social Media,493,0,0,2.3,Tablet,macOS
+35907,2023-10-15 13:02:04,6,6,True,61,Non-Binary,Rural,Paid Ads,352,3,1,1.65,Mobile,Windows
+99183,2023-10-15 19:35:56,4,5,False,31,Non-Binary,Suburban,Social Media,490,5,2,3.41,Mobile,macOS
+20825,2023-10-15 20:27:11,6,6,False,39,Non-Binary,Rural,Direct Search,408,5,0,3.31,Mobile,Android
+68746,2023-10-16 10:34:51,6,5,True,43,Male,Rural,Direct Search,854,1,0,2.27,Tablet,macOS
+21059,2023-10-16 11:14:31,2,6,True,26,Male,Suburban,Email,575,15,1,2.21,Mobile,Linux
+18901,2023-10-16 13:51:46,7,2,True,23,Non-Binary,Urban,Social Media,229,1,0,1.54,Mobile,iOS
+40301,2023-10-16 15:25:43,9,4,True,36,Male,Rural,Email,460,0,0,4.74,Desktop,Linux
+30006,2023-10-17 04:06:56,4,4,False,27,Male,Suburban,Email,494,0,0,4.14,Desktop,Linux
+66062,2023-10-17 08:18:16,3,7,True,31,Female,Suburban,Social Media,550,1,0,0.72,Tablet,macOS
+95532,2023-10-17 19:55:44,9,5,False,21,Female,Suburban,Direct Search,623,0,0,2.22,Tablet,Windows
+37018,2023-10-17 21:37:15,6,5,True,19,Non-Binary,Suburban,Direct Search,600,1,0,4.46,Desktop,Linux
+62462,2023-10-18 04:59:12,8,5,True,27,Non-Binary,Urban,Paid Ads,570,0,0,2.97,Tablet,Windows
+29340,2023-10-18 05:47:16,5,5,True,40,Female,Suburban,Social Media,609,0,1,3.25,Desktop,Windows
+95022,2023-10-18 12:12:30,8,3,True,38,Male,Suburban,Paid Ads,740,0,0,2.61,Tablet,macOS
+55302,2023-10-18 13:10:56,7,6,True,36,Female,Suburban,Social Media,489,6,0,3.72,Mobile,macOS
+10469,2023-10-18 22:02:10,6,4,True,60,Non-Binary,Suburban,Email,558,0,0,3.67,Mobile,Android
+10894,2023-10-19 01:16:48,7,3,False,24,Non-Binary,Suburban,Direct Search,727,2,1,3.59,Tablet,Android
+91572,2023-10-19 03:15:09,1,4,True,43,Non-Binary,Urban,Email,653,0,0,2.08,Mobile,Android
+53295,2023-10-19 09:48:52,5,3,False,31,Non-Binary,Suburban,Direct Search,585,0,1,1.74,Desktop,iOS
+32616,2023-10-19 16:14:09,5,3,False,48,Male,Rural,Social Media,395,5,0,2.32,Mobile,Android
+47237,2023-10-19 18:01:34,4,5,True,34,Female,Suburban,Social Media,756,2,0,3.83,Mobile,Windows
+35484,2023-10-19 20:27:13,4,5,False,23,Male,Rural,Direct Search,587,5,0,3.95,Tablet,Linux
+23704,2023-10-20 22:34:07,1,3,True,40,Female,Rural,Social Media,447,0,0,3.49,Tablet,Windows
+16874,2023-10-21 18:59:04,5,6,False,19,Male,Rural,Social Media,556,0,0,3.44,Desktop,Windows
+62086,2023-10-21 19:27:06,2,7,True,21,Non-Binary,Urban,Direct Search,228,56,0,3.47,Mobile,Windows
+71761,2023-10-22 13:08:17,8,5,False,29,Female,Urban,Social Media,275,82,1,1.62,Tablet,Android
+86473,2023-10-22 22:03:03,5,4,False,36,Male,Urban,Email,357,0,1,1.4,Tablet,iOS
+20738,2023-10-23 08:44:47,3,4,True,59,Non-Binary,Urban,Direct Search,456,0,0,5.15,Mobile,Linux
+54709,2023-10-24 00:48:53,7,5,True,50,Female,Suburban,Paid Ads,617,0,1,3.32,Desktop,iOS
+73418,2023-10-24 03:07:57,5,3,True,18,Female,Urban,Paid Ads,601,3,1,-0.33,Tablet,iOS
+57320,2023-10-24 19:57:28,6,7,False,34,Female,Rural,Social Media,414,67,0,0.24,Desktop,iOS
+80486,2023-10-25 09:55:57,6,8,True,25,Non-Binary,Suburban,Email,695,0,0,0.22,Mobile,Linux
+23429,2023-10-25 13:09:37,7,1,True,22,Male,Rural,Paid Ads,339,3,0,4.93,Desktop,Linux
+62141,2023-10-25 20:48:42,5,6,True,38,Non-Binary,Rural,Paid Ads,573,1,0,1.97,Desktop,Windows
+63977,2023-10-26 08:58:13,4,2,True,33,Non-Binary,Rural,Social Media,437,4,0,4.49,Tablet,Windows
+75180,2023-10-27 04:11:56,15,6,True,25,Non-Binary,Suburban,Direct Search,201,2,0,1.26,Mobile,Android
+36951,2023-10-27 08:12:50,10,8,True,31,Non-Binary,Suburban,Direct Search,508,8,1,3.48,Desktop,iOS
+96179,2023-10-28 01:47:15,4,5,True,26,Male,Suburban,Email,512,0,1,4.02,Desktop,iOS
+59866,2023-10-28 02:35:21,8,5,True,22,Non-Binary,Urban,Paid Ads,519,0,0,1.6,Mobile,Linux
+34813,2023-10-28 11:50:56,3,5,True,22,Male,Urban,Social Media,560,0,1,5.53,Mobile,Android
+41649,2023-10-28 20:58:27,6,7,False,26,Non-Binary,Rural,Email,510,0,0,0.75,Mobile,macOS
+80838,2023-10-29 00:08:31,4,6,True,30,Female,Urban,Email,404,0,0,5.02,Desktop,Windows
+87690,2023-10-30 01:34:56,5,2,True,55,Female,Urban,Email,570,1,0,3.44,Desktop,Android
+53569,2023-10-30 18:26:09,9,5,True,25,Male,Suburban,Direct Search,599,0,2,3.13,Tablet,macOS
+98815,2023-10-31 06:58:22,6,4,True,57,Female,Urban,Email,488,92,1,3.87,Mobile,Android
+82932,2023-10-31 15:03:41,7,7,True,52,Non-Binary,Urban,Social Media,614,12,0,1.05,Tablet,iOS
+70278,2023-10-31 22:02:33,1,3,True,34,Female,Suburban,Social Media,511,0,0,3.26,Tablet,Linux
+83735,2023-10-31 23:57:12,6,6,True,47,Non-Binary,Suburban,Email,63,0,0,1.75,Mobile,Android
+32893,2023-11-01 02:21:47,2,6,False,32,Non-Binary,Rural,Email,187,0,1,1.42,Mobile,Android
+46151,2023-11-01 15:17:33,7,6,True,44,Non-Binary,Urban,Paid Ads,572,208,0,5.42,Tablet,Windows
+87158,2023-11-01 16:28:25,5,6,False,62,Female,Suburban,Direct Search,486,0,0,3.53,Tablet,Linux
+44658,2023-11-02 14:27:45,2,5,True,63,Female,Urban,Email,817,1,0,1.38,Tablet,Windows
+76275,2023-11-02 18:33:48,4,4,True,28,Male,Urban,Direct Search,596,1,2,3.07,Mobile,Linux
+61654,2023-11-02 20:11:34,6,7,True,38,Non-Binary,Urban,Social Media,422,0,0,3.85,Tablet,Linux
+59747,2023-11-03 19:28:07,4,2,True,42,Non-Binary,Rural,Email,664,5,1,0.78,Desktop,iOS
+90992,2023-11-04 07:17:53,4,6,True,31,Non-Binary,Rural,Email,355,0,0,1.42,Tablet,Windows
+10592,2023-11-04 09:15:42,4,3,True,25,Female,Urban,Paid Ads,308,0,0,-0.67,Desktop,Windows
+11740,2023-11-04 10:17:28,4,5,True,22,Non-Binary,Rural,Paid Ads,490,0,0,2.24,Desktop,iOS
+98652,2023-11-04 23:23:01,2,5,False,31,Non-Binary,Rural,Direct Search,636,0,2,0.91,Desktop,Windows
+95971,2023-11-05 04:54:03,1,7,True,18,Non-Binary,Suburban,Direct Search,587,0,3,6.15,Tablet,iOS
+75635,2023-11-05 05:36:27,2,5,False,24,Non-Binary,Rural,Social Media,527,0,0,1.96,Tablet,Windows
+28670,2023-11-05 10:31:39,5,7,True,39,Male,Rural,Paid Ads,418,4,0,1.77,Desktop,Android
+12987,2023-11-05 15:56:13,7,7,True,20,Non-Binary,Urban,Email,205,0,0,0.79,Tablet,iOS
+36214,2023-11-05 16:56:08,7,5,True,19,Non-Binary,Urban,Paid Ads,585,2,0,1.73,Mobile,macOS
+37260,2023-11-05 17:01:26,9,6,True,38,Female,Suburban,Email,615,1,0,1.4,Mobile,iOS
+98162,2023-11-07 04:23:04,2,4,True,36,Female,Urban,Direct Search,511,2,0,2.1,Desktop,Windows
+17877,2023-11-07 06:57:54,5,3,True,26,Female,Suburban,Paid Ads,565,0,0,3.34,Mobile,macOS
+31674,2023-11-07 08:00:28,6,5,False,26,Male,Rural,Social Media,553,9,0,5.75,Tablet,macOS
+84544,2023-11-07 09:29:40,3,4,False,30,Non-Binary,Rural,Direct Search,587,0,0,1.19,Desktop,Android
+56402,2023-11-07 11:25:39,9,6,True,21,Non-Binary,Suburban,Direct Search,471,0,0,4.7,Tablet,iOS
+69601,2023-11-07 13:29:42,4,5,True,26,Non-Binary,Suburban,Paid Ads,488,0,1,4.1,Tablet,Windows
+68530,2023-11-07 19:44:12,2,2,True,59,Non-Binary,Rural,Paid Ads,621,0,0,2.78,Tablet,Windows
+16521,2023-11-08 04:42:10,2,5,True,21,Male,Suburban,Social Media,560,0,0,0.97,Desktop,macOS
+53699,2023-11-09 09:31:32,2,4,True,22,Male,Rural,Social Media,71,0,0,4.46,Desktop,iOS
+79939,2023-11-09 12:31:36,2,6,False,42,Male,Rural,Direct Search,635,1,0,2.95,Desktop,Android
+99208,2023-11-09 21:38:00,7,7,True,29,Male,Rural,Paid Ads,524,0,0,-0.01,Mobile,Windows
+44330,2023-11-10 13:08:54,5,5,True,37,Male,Urban,Direct Search,361,1,0,4.88,Tablet,Android
+28931,2023-11-10 18:46:38,2,7,True,51,Male,Rural,Paid Ads,186,4,0,4.29,Tablet,iOS
+69843,2023-11-11 04:59:43,9,6,True,26,Male,Rural,Social Media,603,15,0,5.1,Mobile,Windows
+42904,2023-11-11 08:14:25,5,5,False,21,Female,Rural,Social Media,448,2,0,3.33,Desktop,Linux
+86693,2023-11-11 14:56:17,4,4,False,24,Female,Suburban,Social Media,373,0,0,4.38,Desktop,iOS
+49421,2023-11-12 07:23:56,4,7,True,26,Male,Rural,Email,529,0,0,-0.45,Tablet,iOS
+52506,2023-11-12 09:29:40,3,4,True,59,Male,Suburban,Direct Search,357,0,0,4.26,Tablet,Android
+21590,2023-11-12 14:20:24,3,6,False,26,Male,Suburban,Paid Ads,268,1,1,2.33,Desktop,Android
+13418,2023-11-12 16:51:44,4,5,True,40,Female,Urban,Social Media,677,0,1,0.57,Desktop,macOS
+44735,2023-11-12 18:11:16,3,7,True,47,Male,Suburban,Paid Ads,381,8,0,3.35,Mobile,Windows
+54889,2023-11-13 14:54:21,5,5,False,25,Non-Binary,Urban,Paid Ads,468,0,1,5.46,Tablet,macOS
+23596,2023-11-14 01:01:56,11,8,False,51,Female,Rural,Paid Ads,655,0,0,2.37,Tablet,iOS
+31649,2023-11-14 04:11:08,2,8,True,37,Non-Binary,Suburban,Paid Ads,683,2,1,2.03,Tablet,macOS
+95998,2023-11-14 14:37:04,7,6,True,33,Non-Binary,Suburban,Social Media,809,0,2,3.81,Mobile,Android
+65060,2023-11-15 03:51:07,5,7,True,52,Male,Suburban,Email,378,0,0,2.38,Tablet,iOS
+77399,2023-11-15 04:29:46,6,8,False,24,Non-Binary,Rural,Email,418,0,1,2.63,Tablet,Linux
+24297,2023-11-15 09:18:31,2,3,False,27,Male,Suburban,Social Media,282,0,1,1.32,Mobile,Windows
+61115,2023-11-16 00:09:43,7,4,True,45,Non-Binary,Rural,Paid Ads,408,3,2,2.62,Tablet,Android
+24937,2023-11-16 23:12:31,6,7,True,41,Male,Urban,Direct Search,329,2,0,2.98,Desktop,Linux
+21477,2023-11-17 00:08:04,3,5,True,19,Female,Urban,Social Media,539,0,0,2.98,Mobile,Android
+25588,2023-11-17 07:02:53,5,5,True,54,Non-Binary,Suburban,Paid Ads,537,2,2,4.2,Tablet,Windows
+71073,2023-11-18 06:29:56,6,5,True,38,Non-Binary,Rural,Paid Ads,649,0,0,3.69,Desktop,macOS
+24591,2023-11-18 08:13:43,7,6,True,20,Female,Urban,Direct Search,447,0,0,-1.26,Desktop,Android
+41222,2023-11-18 12:06:58,9,5,True,18,Female,Urban,Paid Ads,831,0,0,3.69,Tablet,Windows
+30129,2023-11-19 10:38:45,1,5,True,23,Male,Suburban,Email,577,0,0,3.66,Tablet,macOS
+84165,2023-11-19 18:10:30,5,6,False,43,Female,Urban,Direct Search,344,5,0,1.78,Desktop,Android
+12098,2023-11-20 04:53:18,6,7,True,40,Male,Rural,Email,172,0,0,4.39,Tablet,Linux
+10797,2023-11-20 21:05:35,5,4,True,32,Non-Binary,Urban,Email,619,1,0,4.9,Mobile,iOS
+40752,2023-11-21 02:58:25,5,3,False,37,Male,Suburban,Email,264,0,1,2.43,Tablet,iOS
+34777,2023-11-21 06:01:10,3,7,True,20,Non-Binary,Rural,Email,455,2,0,6.68,Tablet,macOS
+41838,2023-11-21 06:48:19,4,6,False,49,Male,Urban,Direct Search,474,7,0,-0.09,Mobile,Windows
+70343,2023-11-21 12:02:50,4,6,True,24,Non-Binary,Urban,Email,254,0,1,2.79,Tablet,iOS
+72444,2023-11-22 13:23:00,6,6,True,18,Non-Binary,Suburban,Paid Ads,441,0,1,1.34,Tablet,Windows
+33417,2023-11-22 15:29:20,2,5,True,32,Female,Urban,Email,511,0,0,5.15,Desktop,Linux
+62548,2023-11-23 14:52:31,3,5,False,54,Non-Binary,Suburban,Direct Search,479,0,0,3.04,Mobile,iOS
+55518,2023-11-23 20:01:08,4,5,True,29,Non-Binary,Rural,Email,654,0,0,3.05,Desktop,macOS
+39849,2023-11-23 20:30:22,3,5,True,41,Male,Urban,Paid Ads,450,1,1,2.11,Mobile,iOS
+69126,2023-11-23 20:55:23,5,6,True,50,Non-Binary,Urban,Paid Ads,320,0,0,2.48,Desktop,Android
+79988,2023-11-24 08:02:32,7,5,True,51,Male,Rural,Social Media,392,1,0,1.67,Tablet,Linux
+69268,2023-11-24 14:26:47,3,9,True,25,Male,Urban,Social Media,357,12,2,4.59,Desktop,iOS
+35754,2023-11-24 17:43:14,9,5,True,33,Non-Binary,Rural,Paid Ads,451,0,2,1.06,Mobile,Windows
+69253,2023-11-25 05:42:55,7,7,True,19,Non-Binary,Urban,Direct Search,105,3,0,3.21,Tablet,iOS
+92127,2023-11-25 15:32:07,7,6,True,38,Female,Rural,Social Media,575,0,2,2.51,Desktop,Linux
+83064,2023-11-26 03:38:58,5,7,True,30,Female,Suburban,Direct Search,371,0,0,2.34,Tablet,Linux
+79658,2023-11-26 20:20:59,8,3,False,21,Non-Binary,Rural,Email,343,0,0,1.62,Desktop,iOS
+78627,2023-11-27 02:31:02,3,6,True,36,Non-Binary,Urban,Paid Ads,476,0,0,-0.6,Mobile,iOS
+56031,2023-11-27 07:24:35,4,5,True,29,Male,Rural,Email,529,0,1,4.96,Mobile,Windows
+22120,2023-11-27 13:42:34,1,3,True,29,Male,Urban,Direct Search,589,0,1,5.11,Tablet,iOS
+64888,2023-11-27 14:05:03,8,5,True,34,Male,Rural,Email,556,4,1,1.95,Mobile,macOS
+94977,2023-11-27 18:11:35,3,6,True,50,Male,Suburban,Direct Search,389,0,0,4.34,Mobile,macOS
+52521,2023-11-27 23:07:16,6,5,True,40,Male,Urban,Social Media,643,0,0,-0.17,Tablet,Windows
+70241,2023-11-28 08:32:59,5,8,True,46,Non-Binary,Urban,Email,692,2,1,3.45,Mobile,macOS
+41785,2023-11-28 18:33:35,9,3,False,33,Male,Rural,Paid Ads,510,0,0,3.43,Mobile,Linux
+21723,2023-11-28 19:02:30,4,5,True,52,Female,Suburban,Paid Ads,363,0,0,5.04,Desktop,Windows
+28387,2023-11-28 21:04:11,7,5,True,53,Non-Binary,Rural,Direct Search,653,0,1,4.6,Mobile,Windows
+24281,2023-11-29 04:43:24,7,8,True,28,Female,Rural,Paid Ads,299,4,0,1.83,Mobile,Windows
+62817,2023-11-30 00:24:24,7,2,True,35,Non-Binary,Urban,Social Media,650,0,0,4.48,Tablet,iOS
+62489,2023-11-30 07:20:13,10,3,True,18,Male,Suburban,Direct Search,699,0,0,2.06,Desktop,Linux
+51294,2023-11-30 21:30:12,5,6,True,26,Non-Binary,Rural,Social Media,494,1,1,4.1,Mobile,Android
+71401,2023-11-30 23:31:08,8,4,True,29,Female,Rural,Direct Search,342,0,1,2.9,Mobile,Windows
+89073,2023-12-01 07:38:41,1,7,True,23,Female,Suburban,Direct Search,526,3,0,2.34,Tablet,macOS
+73413,2023-12-01 09:11:13,6,5,True,46,Male,Rural,Paid Ads,279,1,0,0.51,Mobile,iOS
+19694,2023-12-01 20:21:58,4,5,False,49,Female,Urban,Paid Ads,378,2,0,2.08,Desktop,Linux
+12963,2023-12-01 23:22:39,2,1,True,47,Male,Urban,Email,844,0,1,2.96,Tablet,Windows
+50444,2023-12-03 01:45:22,7,7,False,39,Non-Binary,Rural,Paid Ads,424,0,0,4.92,Desktop,Windows
+21408,2023-12-03 10:19:02,8,5,True,19,Female,Rural,Social Media,313,1,0,0.43,Desktop,Linux
+78816,2023-12-03 13:46:00,2,5,True,29,Non-Binary,Urban,Direct Search,470,1,0,3.41,Desktop,macOS
+72885,2023-12-03 19:03:08,6,6,True,19,Female,Rural,Email,596,1,0,3.08,Desktop,Linux
+92368,2023-12-04 09:06:39,4,7,True,20,Non-Binary,Rural,Paid Ads,318,34,0,2.57,Desktop,Windows
+17601,2023-12-04 23:00:35,5,8,True,58,Female,Urban,Email,523,1,0,0.85,Desktop,macOS
+92357,2023-12-05 09:06:28,5,3,False,21,Male,Suburban,Paid Ads,327,0,0,3.59,Desktop,iOS
+88957,2023-12-05 12:20:42,4,2,False,30,Male,Suburban,Email,578,0,1,2.58,Mobile,Android
+97582,2023-12-06 04:47:36,7,8,True,40,Non-Binary,Urban,Direct Search,466,0,1,3.48,Mobile,Linux
+48111,2023-12-06 07:47:09,3,7,True,39,Male,Rural,Email,681,0,0,1.73,Desktop,Windows
+50800,2023-12-06 13:44:55,5,4,True,38,Non-Binary,Urban,Paid Ads,488,0,1,1.93,Tablet,macOS
+79722,2023-12-06 20:58:14,5,5,False,36,Non-Binary,Rural,Email,592,0,1,2.56,Desktop,iOS
+78201,2023-12-06 23:22:57,9,6,True,51,Non-Binary,Urban,Paid Ads,918,25,0,3.45,Tablet,Android
+73720,2023-12-07 18:27:01,5,6,True,45,Non-Binary,Urban,Email,233,0,2,5.7,Mobile,Android
+76477,2023-12-07 20:19:22,7,5,True,62,Male,Suburban,Direct Search,526,0,1,6.3,Desktop,Windows
+74866,2023-12-08 03:49:32,4,6,True,54,Non-Binary,Suburban,Direct Search,133,0,1,2.83,Mobile,Windows
+36981,2023-12-08 03:58:12,6,3,False,29,Female,Urban,Paid Ads,544,0,1,3.08,Desktop,Android
+38039,2023-12-08 11:25:16,2,4,True,30,Male,Suburban,Email,830,3,0,0.26,Mobile,macOS
+46741,2023-12-09 08:54:49,2,2,True,35,Male,Urban,Direct Search,300,0,0,1.23,Mobile,macOS
+64268,2023-12-09 15:11:36,9,7,True,48,Female,Suburban,Social Media,632,1,1,5.61,Mobile,iOS
+53890,2023-12-09 19:50:45,3,6,True,42,Female,Rural,Email,472,8,0,2.68,Mobile,Linux
+48804,2023-12-10 03:53:44,10,4,True,25,Male,Rural,Email,518,0,1,1.07,Desktop,Android
+98157,2023-12-10 19:53:01,5,6,False,35,Male,Suburban,Paid Ads,380,0,0,1.63,Mobile,macOS
+24254,2023-12-10 20:46:13,3,7,True,26,Female,Suburban,Direct Search,351,5,0,4.39,Mobile,Windows
+48395,2023-12-10 21:12:35,4,5,True,39,Male,Rural,Email,683,2,0,2.64,Tablet,Windows
+71353,2023-12-11 11:20:47,5,6,False,26,Female,Rural,Paid Ads,290,1,2,4.34,Desktop,Android
+25912,2023-12-12 01:53:36,9,4,False,61,Female,Suburban,Paid Ads,355,0,0,2.56,Mobile,Windows
+49078,2023-12-12 03:02:41,2,6,True,34,Male,Suburban,Direct Search,591,0,2,2.6,Desktop,Windows
+12195,2023-12-12 12:57:21,2,4,False,47,Female,Rural,Direct Search,379,0,1,2.52,Mobile,Android
+47212,2023-12-12 12:57:32,6,6,True,30,Female,Suburban,Social Media,442,0,0,4.43,Desktop,iOS
+62513,2023-12-12 18:23:25,3,3,True,26,Female,Rural,Email,643,7,1,0.48,Tablet,iOS
+48607,2023-12-14 03:23:41,3,6,True,35,Male,Suburban,Direct Search,258,0,1,4.72,Tablet,macOS
+69300,2023-12-16 12:04:32,5,4,False,22,Non-Binary,Suburban,Email,219,4,0,1.98,Desktop,Android
+67852,2023-12-16 15:32:37,4,5,False,37,Male,Rural,Email,555,0,1,1.14,Desktop,Windows
+21922,2023-12-16 16:18:00,8,3,False,32,Female,Suburban,Paid Ads,441,0,1,0.58,Tablet,Android
+81818,2023-12-17 11:38:19,3,7,True,19,Female,Suburban,Email,522,1,0,1.61,Desktop,macOS
+11608,2023-12-17 14:38:53,4,1,True,25,Female,Suburban,Social Media,396,2,0,0.73,Mobile,Linux
+27582,2023-12-18 08:21:20,2,3,True,28,Male,Rural,Paid Ads,611,4,1,1.11,Mobile,Android
+78828,2023-12-18 18:13:30,2,4,True,58,Female,Urban,Paid Ads,378,0,0,3.88,Tablet,Android
+81255,2023-12-19 06:28:52,7,7,False,24,Male,Suburban,Email,287,3,0,2.51,Desktop,Linux
+17012,2023-12-19 07:27:39,4,6,False,36,Non-Binary,Urban,Direct Search,159,0,2,0.49,Desktop,Linux
+54296,2023-12-19 23:28:07,7,4,True,47,Female,Urban,Social Media,499,52,1,3.02,Tablet,iOS
+51808,2023-12-20 00:17:34,6,8,True,20,Male,Rural,Social Media,376,3,0,3.94,Desktop,Windows
+13466,2023-12-20 10:12:33,3,5,True,27,Female,Rural,Email,533,0,1,2.25,Tablet,Android
+17011,2023-12-21 05:18:35,3,2,True,24,Male,Rural,Paid Ads,437,0,3,3.87,Desktop,iOS
+46315,2023-12-21 10:04:34,2,5,True,26,Non-Binary,Rural,Direct Search,210,4,1,3.75,Mobile,Android
+55663,2023-12-21 15:02:19,9,4,True,32,Female,Rural,Paid Ads,549,1,0,3.84,Desktop,macOS
+43201,2023-12-23 17:42:02,5,6,True,25,Female,Urban,Paid Ads,673,7,1,3.2,Mobile,iOS
+65986,2023-12-23 22:33:43,4,5,True,37,Male,Suburban,Social Media,582,0,0,4.59,Tablet,Android
+43393,2023-12-24 02:23:12,11,3,True,29,Male,Rural,Direct Search,515,0,0,5.61,Mobile,Android
+52798,2023-12-24 10:26:22,3,6,True,49,Non-Binary,Urban,Email,521,0,0,4.79,Mobile,Windows
+38086,2023-12-25 12:45:05,4,5,True,41,Male,Rural,Paid Ads,635,0,0,2.81,Tablet,macOS
+14420,2023-12-25 15:47:32,4,4,True,19,Male,Rural,Social Media,400,0,0,2.55,Desktop,iOS
+28504,2023-12-25 17:32:04,3,3,True,24,Male,Rural,Email,907,1,0,4.67,Mobile,Linux
+47644,2023-12-26 02:01:46,8,5,True,26,Male,Suburban,Direct Search,660,0,0,1.81,Mobile,Android
+35025,2023-12-26 22:06:34,7,4,True,24,Male,Urban,Direct Search,277,0,2,2.44,Mobile,Android
+91475,2023-12-27 10:51:17,4,4,True,33,Male,Urban,Email,601,0,1,2.86,Tablet,Windows
+10131,2023-12-27 13:21:13,10,7,False,49,Female,Suburban,Email,169,0,0,3.03,Desktop,Windows
+83925,2023-12-29 01:45:20,2,8,True,61,Female,Suburban,Email,482,0,0,4.94,Mobile,Windows
+69580,2023-12-29 10:53:30,1,6,True,61,Non-Binary,Suburban,Paid Ads,282,1,0,4.68,Tablet,iOS
+19120,2023-12-29 13:37:29,6,6,False,34,Male,Rural,Paid Ads,437,1,0,5.46,Tablet,Android
+15985,2023-12-29 19:31:03,7,4,True,20,Female,Suburban,Paid Ads,427,0,0,3.59,Tablet,Linux
+59811,2023-12-30 05:40:35,3,5,True,48,Male,Suburban,Paid Ads,353,0,0,1.3,Desktop,Android
+38436,2023-12-30 05:52:46,4,5,False,54,Non-Binary,Suburban,Paid Ads,509,0,0,3.21,Tablet,Windows
+54038,2023-12-30 07:43:38,5,6,True,48,Male,Urban,Direct Search,696,0,1,3.72,Tablet,Linux
+12555,2023-12-30 09:08:20,3,2,False,55,Non-Binary,Suburban,Direct Search,232,0,1,3.02,Mobile,iOS
+26975,2023-12-30 21:03:02,9,4,False,55,Male,Suburban,Paid Ads,494,1,1,2.73,Mobile,Linux
+66356,2023-12-31 01:30:17,6,7,True,34,Female,Suburban,Email,487,37,1,0.33,Desktop,macOS
+90675,2023-12-31 09:55:50,6,9,True,18,Female,Rural,Social Media,573,0,0,1.8,Tablet,macOS
+57273,2023-12-31 10:08:53,4,6,True,26,Female,Suburban,Email,578,16,0,1.81,Tablet,iOS
+17704,2023-12-31 14:07:15,5,7,True,20,Non-Binary,Rural,Paid Ads,660,1,1,2.33,Desktop,macOS
+10612,2023-12-31 22:26:35,0,5,True,30,Male,Rural,Paid Ads,607,4,0,3.79,Desktop,Android
